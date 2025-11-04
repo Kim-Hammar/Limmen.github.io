@@ -116,7 +116,7 @@ title: News
 :   Attending [GameSec23](https://www.gamesec-conf.org/registration.php) in Avignon.
 
 28 Aug '23
-:   Our system the "Cyber Security Learning Environment" (CSLE) is now available open source [here](https://github.com/Limmen).
+:   Our system the "Cyber Security Learning Environment" (CSLE) is now available open source [here](https://github.com/Kim-Hammar).
 ![csle](/assets/csle_logo_cropped.png "CSLE")
 
 26 Aug '23
@@ -232,7 +232,7 @@ title: News
 :   Antonio Frederico Nesti Lopes, master thesis student in our group, successfully defended his M.Sc., with thesis entitled "Bayesian Reinforcement Learning Methods for Network Intrusion Prevention". The camera ready version will be available soon.
 
 23 July '21
-:   Attending the [DLRL](https://dlrl.ca/) summer school and presenting a poster. Our poster is available [here](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf).
+:   Attending the [DLRL](https://dlrl.ca/) summer school and presenting a poster. Our poster is available [here](https://kim-hammar.com/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf).
 
 16 July '21
 :   Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21, a preprint is [available](https://arxiv.org/pdf/2106.07160.pdf).
@@ -241,7 +241,7 @@ title: News
 :   Preprint of our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is [available](https://arxiv.org/pdf/2106.07160.pdf).
 
 24 Mar '21
-:   Slides of our presentation at the CDIS spring conference is [available](https://limmen.dev/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf).
+:   Slides of our presentation at the CDIS spring conference is [available](https://kim-hammar.com/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf).
 
 14 Sep '20
 :   Our CNSM´20 paper "Finding Effective Security Strategies through Reinforcement Learning and Self-Play" was accepted, a preprint is [available](https://arxiv.org/abs/2009.08120).

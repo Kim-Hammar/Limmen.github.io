@@ -264,7 +264,7 @@ Mihhail Matskin
 2021
 :   **Learning Intrusion Prevention Policies through Optimal Stopping**; Poster, CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School 2021.
     **Kim Hammar** and Rolf Stadler
-    [PDF](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
+    [PDF](https://kim-hammar.com/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
 
 
 ### External Blog Posts
@@ -332,7 +332,7 @@ Mihhail Matskin
 2017
 :   **Distributed Human Activity Recognition**; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Best project award, awarded a graphics card) </span>;
 	**Kim Hammar** and Konstantin Sozinov
-	[Link](https://github.com/Limmen/Distributed_ML)
+	[Link](https://github.com/Kim-Hammar/Distributed_ML)
 
 2017
 :   **Machine Learning for Failure Detection in Distributed Systems**; 23 Nov 2017. A project report.
