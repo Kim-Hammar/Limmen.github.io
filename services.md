@@ -67,6 +67,9 @@ title: Services
 **Reviewer** International Conference on Network and Service Management (CNSM) 2022-2025.
 [link](http://www.cnsm-conf.org/2021/)
 
+**Member** AAAI, Association for the Advancement of Artificial Intelligence (2025-).
+[link](https://aaai.org/)
+
 **Member** Cyber Security Academy, Unga forskare (2021-).
 [link](https://ungaforskare.se/cybersecurityacademy/)
 
