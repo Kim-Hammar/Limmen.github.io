@@ -3,6 +3,13 @@ layout: page
 title: Talks
 ---
 
+
+
+2025
+:   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, November 18, 2025.
+	[Slides](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning/284185908)
+	[PDF](/assets/slides/causal_identification_hammar_stadler.pdf)
+
 2025
 :   **Automated Security with a Foundation Model**; Hong Kong, China, October 20, 2025.
 	[Slides](https://www.slideshare.net/slideshow/automated-security-with-a-foundation-model/283860966)
