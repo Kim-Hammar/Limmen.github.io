@@ -12,13 +12,6 @@ title: Publications
 	[bib](/assets/citations/ci_25_hammar.bib)
 
 2025
-:   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**;
-     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
-	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
-	[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
-	[bib](/assets/citations/llm_response_25_hammar.bib)
-
-2025
 :   **Adaptive Network Security Policies via Belief Aggregation and Rollout**;
      **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
@@ -71,6 +64,17 @@ title: Publications
 	[bib](/assets/citations/wi_journal.bib)
 
 ### Conferences
+
+2026
+:   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; Conference paper, Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
+     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
+	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
+	[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
+	[bib](/assets/citations/llm_response_25_hammar.bib)
+
+2026
+:   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; Conference paper, 40th AAAI Conference on Artificial Intelligence 2026, Singapore, January 20-27 2026.
+     **Kim Hammar** and Tansu Alpcan
 
 2025
 :   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; Conference paper, ACM CCS AiSec 2025: 18 th ACM Workshop on Artificial Intelligence and Security, Taipei, Taiwan, Oct 17.
