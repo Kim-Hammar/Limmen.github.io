@@ -12,6 +12,9 @@ title: Services
 **Member**, IEEE Technical Early-Career Committee on Security and Privacy. 2025-Present.
 [link](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home)
 
+**Reviewer** ACM Transactions on Privacy and Security (TOPS) 2025-.
+[link](https://dl.acm.org/journal/tops)
+
 **Reviewer** American Control Conference (ACC) 2026.
 [link](https://acc2026.a2c2.org/)
 
