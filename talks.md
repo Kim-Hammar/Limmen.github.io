@@ -4,6 +4,10 @@ title: Talks
 ---
 
 
+2025
+:   **Incident Response Planning with a Foundation Model**; Melbourne, Australia, December 5, 2025.
+	[Slides](https://www.slideshare.net/slideshow/incident-response-planning-with-a-foundation-model/284484184)
+	[PDF](/assets/slides/unimelb_incident_response_hammar_alpcan_lupu_dec_2025.pdf)
 
 2025
 :   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, November 18, 2025.
