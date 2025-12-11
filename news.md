@@ -29,6 +29,7 @@ title: News
 
 20 May '25
 :   Moved to The University of Melbourne as a postdoctoral researcher.
+![unimelb](/assets/unimelb_1.jpeg "Unimelb end-of-year")
 ![unimelb](/assets/unimelb.jpg "Unimelb visit")
 
 6 May '25
