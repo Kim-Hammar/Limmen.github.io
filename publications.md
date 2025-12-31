@@ -79,6 +79,7 @@ title: Publications
 2025
 :   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; Conference paper, ACM CCS AiSec 2025: 18 th ACM Workshop on Artificial Intelligence and Security, Taipei, Taiwan, Oct 17.
     **Kim Hammar** and Tao Li
+    [ACM Proceedings](https://dl.acm.org/doi/10.1145/3733799.3762965)    
     [arXiv(preprint)](https://arxiv.org/pdf/2508.14385)
     [bib](/assets/citations/aisec25.bib)
 
