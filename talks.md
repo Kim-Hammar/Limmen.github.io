@@ -4,6 +4,12 @@ title: Talks
 ---
 
 
+2026
+:   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; Singapore, January 22, 2026.
+	[Slides](https://www.slideshare.net/slideshow/scalable-solutions-to-zero-sum-partially-observable-stochastic-games-through-belief-aggregation-with-approximation-guarantees/285440683)
+	[PDF](/assets/slides/AAAI26_Hammar_Alpcan.pdf)
+	[Video](https://www.youtube.com/watch?v=RzqFbvBoano)	
+
 2025
 :   **Incident Response Planning with a Foundation Model**; Melbourne, Australia, December 5, 2025.
 	[Slides](https://www.slideshare.net/slideshow/incident-response-planning-with-a-foundation-model/284484184)
@@ -13,6 +19,7 @@ title: Talks
 :   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, November 18, 2025.
 	[Slides](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning/284185908)
 	[PDF](/assets/slides/causal_identification_hammar_stadler.pdf)
+	[Video](https://www.youtube.com/watch?v=PEv_ikad5DI)		
 
 2025
 :   **Automated Security with a Foundation Model**; Hong Kong, China, October 20, 2025.
