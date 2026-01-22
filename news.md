@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+22 Jan '26 Attending the AAAI Conference on Artificial Intelligence in Singapore and presenting our paper "Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees". The proceedings will be available soon.
+
+21 Jan '26 Our paper "Hallucination-Resistant Security Planning with a Large Language Model" was accepted to NOMS 2026. A preprint will be available soon.
+
 20 Oct '25 Visiting Asst. Prof Tao Li at the City University of Hong Kong. The [Talk details](/assets/slides/SYE03_Dr Kim Hammar_20251020.pdf)
 ![chk flyer](/assets/chk_flyer.jpg "chk flyer")
 ![chk visit](/assets/cityu_visit.jpeg "chk visit")

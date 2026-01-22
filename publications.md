@@ -66,6 +66,10 @@ title: Publications
 ### Conferences
 
 2026
+:   **Hallucination-Resistant Security Planning with a Large Language Model**; Conference paper, IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
+     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
+
+2026
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; Conference paper, Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
 	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
