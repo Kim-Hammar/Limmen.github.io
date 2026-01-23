@@ -17,6 +17,9 @@ title: News
 ![aisec poster](/assets/aisec25_poster.jpg "AISec Poster")
 ![aisec](/assets/aisec25.jpg "AISec")
 
+15 Sep '25
+:   Joining the editorial board of [IEEE TNSM](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board).
+
 6 Sep '25
 :   An updated video demonstration of our LLM-based incident response system is available [here](https://www.youtube.com/watch?v=XXo4Y6LCWk4).
 
