@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Technical program committee member**, GameSec 2026, Interational Conference on Game Theory and AI for Security.
+[link](https://www.gamesec-conf.org/organization.php)
+
 **Associate editor**, IEEE Transactions on Network and Service Management. 2025-Present.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)
 
