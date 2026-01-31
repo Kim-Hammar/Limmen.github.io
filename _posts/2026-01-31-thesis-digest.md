@@ -35,11 +35,13 @@ We introduce six novel mathematical models of incident response. With these mode
 We develop mathematical tools for incident response and prove structural properties of optimal response strategies, such as decomposability and threshold structure. These results enable scalable computation and efficient implementation of optimal strategies in operational systems.
 
 
-**4.** General framework for optimal incident response.
+**4. General framework for optimal incident response.**
 
 We design a general framework for optimal incident response; see Fig. 1. Additionally, we present the **C**yber **S**ecurity **L**earning **E**nvironment (CSLE), an open-source platform that implements our framework. Unlike previous simulation-based solutions, our framework provides practical insights beyond a specific response scenario. The source-code is available [here](https://github.com/Kim-Hammar/csle).
 
 ![Fig. 1](/assets/thesis_digest_1.png "Architectural overview of our framework for automated, optimal, and adaptive incident response in IT systems.")
+
+*Fig. 1: Architectural overview of our framework for automated, optimal, and adaptive incident response in IT systems.*
 
 ## The Incident Response Problem
 
@@ -48,3 +50,21 @@ Incident response involves selecting a sequence of actions that restores a netwo
 Figure~2 illustrates the phases of incident response. Following the attack are detection and response time intervals, which represent the time to detect the attack and form a response, respectively. These phases are followed by a *recovery time* interval T, during which response actions are deployed. The objective is to keep this interval as short as possible to limit the cost of the incident. For example, in the event of a ransomware attack, a delay of a few minutes in containing the attack may allow the malware to encrypt systems or spread laterally.
 
 ![Fig. 2](/assets/thesis_digest_2.png "Phases and performance metrics of the incident response problem.")
+
+*Fig. 2: Phases and performance metrics of the incident response problem.*
+
+### Formalizing the Incident Response Problem
+
+Before presenting our framework, we start by formulating incident response as a game-theoretic problem. To accomplish this formulation, we need a vocabulary in which to talk about the systems and actors involved. To this end, we refer to the operator of the target system as the *defender*, and we refer to an entity aiming to attack the system as the *attacker. Both interact with the system by taking *actions* (e.g., attacks and responses), which affect the system's *state* (e.g., the system's security and service status). When selecting these actions, the defender and the attacker use measurements from the system (e.g., log files and security alerts), which we refer to as *observations*. A function that maps a sequence of observations to an action is called a *strategy*, and a strategy that is most advantageous according to some objective is *optimal*.
+
+Mathematically, the response problem can be stated as
+$$
+\sup_{\pi_{\mathrm{D}} \in \Pi_{\mathrm{D}}}\inf_{\pi_{\mathrm{A}} \in \Pi_{\mathrm{A}}} \text{ } \mathbb{E}_{\pi_{\mathrm{D}}, \pi_{\mathrm{A}}}[J(\pi_{\mathrm{D}}, \pi_{\mathrm{A}}) \mid \mathbf{b}_1], \\
+\text{subject to }\text{ } s_1 \sim \mathbf{b}_1, \\
+s_{t+1} \sim f(\cdot \mid s_{t}, a_t^{(\mathrm{D})}, a_t^{(\mathrm{A})}), && \forall t \geq 1,\\
+o_t \sim z(\cdot \mid s_t), && \forall t \geq 2,\\
+\mathbf{b}_{t+1} = B(\mathbf{b}_{t}, a_t^{(\mathrm{D})}, o_{t+1},\pi_{\mathrm{A}}), && \forall t \geq 1, \\
+a_t^{(\mathrm{D})} \sim \pi_{\mathrm{D}}(\cdot \mid \mathbf{b}_t), && \forall t \geq 1, \\
+a_t^{(\mathrm{A})} \sim \pi_{\mathrm{A}}(\cdot \mid \mathbf{b}_t, s_t), && \forall t \geq 1,
+$$
+where $s_t$ is the game state at time $t$, which is hidden from the defender; $o_t$ is the observation; $a^{\mathrm{k}}_t$ is the action of player $\mathrm{k}$; $\pi_{\mathrm{k}}$ is the strategy of player $\mathrm{k}$; $\mathbf{b}_t$ is the defender's belief state, i.e., a probability distribution over game states; $B$ is a belief estimator; $z$ is the observation function; $f$ is the transition function; and $J$ is an objective functional that the defender tries to maximize and the attacker tries to minimize.
