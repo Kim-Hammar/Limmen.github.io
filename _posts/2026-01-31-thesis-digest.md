@@ -3,7 +3,7 @@ title: Digest of my PhD thesis
 updated: 2026-01-31 19:09
 ---
 
-Below is a short digest of my PhD thesis. The full thesis is available for download [here](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+Below is a short digest of my PhD thesis. The full thesis is available for download [here](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all).
 
 ## Abstract
 
@@ -38,3 +38,13 @@ We develop mathematical tools for incident response and prove structural propert
 **4.** General framework for optimal incident response.
 
 We design a general framework for optimal incident response; see Fig. 1. Additionally, we present the **C**yber **S**ecurity **L**earning **E**nvironment (CSLE), an open-source platform that implements our framework. Unlike previous simulation-based solutions, our framework provides practical insights beyond a specific response scenario. The source-code is available [here](https://github.com/Kim-Hammar/csle).
+
+![Fig. 1](/assets/thesis_digest_1.png "Architectural overview of our framework for automated, optimal, and adaptive incident response in IT systems.")
+
+## The Incident Response Problem
+
+Incident response involves selecting a sequence of actions that restores a networked system to a secure and operational state after a cyberattack. When selecting these actions, a key challenge is that the information about the attack is often limited to partial indicators of compromise, such as logs and alerts. Examples of response actions include network flow control, patching vulnerabilities, and updating access controls.
+
+Figure~2 illustrates the phases of incident response. Following the attack are detection and response time intervals, which represent the time to detect the attack and form a response, respectively. These phases are followed by a *recovery time* interval T, during which response actions are deployed. The objective is to keep this interval as short as possible to limit the cost of the incident. For example, in the event of a ransomware attack, a delay of a few minutes in containing the attack may allow the malware to encrypt systems or spread laterally.
+
+![Fig. 2](/assets/thesis_digest_2.png "Phases and performance metrics of the incident response problem.")
