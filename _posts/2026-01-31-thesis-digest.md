@@ -69,4 +69,23 @@ a_t^{(D)} \sim \pi_{D}(\cdot \mid \mathbf{b}_t),  \text{ } \forall t \geq 1, \\
 a_t^{(A)} \sim \pi_{A}(\cdot \mid \mathbf{b}_t, s_t), \text{ } \forall t \geq 1,
 $$
 
-where $s_t$ is the game state at time $t$, which is hidden from the defender; $o_t$ is the observation; $a^{k}_t$ is the action of player $k$; $\pi_{k}$ is the strategy of player $k$; $\mathbf{b}_t$ is the defender's belief state, i.e., a probability distribution over game states; $B$ is a belief estimator; $z$ is the observation function; $f$ is the transition function; and $J$ is an objective functional that the defender tries to maximize and the attacker tries to minimize.
+where $$s_t$$ is the game state at time $$t$$, which is hidden from the defender; $$o_t$$ is the observation; $$a^{k}_t$$ is the action of player $$k$$; $$\pi_{k}$$ is the strategy of player $$k$$; $$\mathbf{b}_t$$ is the defender's belief state, i.e., a probability distribution over game states; $$B$$ is a belief estimator; $$z$$ is the observation function; $$f$$ is the transition function; and $$J$$ is an objective functional that the defender tries to maximize and the attacker tries to minimize.
+
+## A Framework for Optimal Incident Response
+
+To solve or approximate a solution to the above problem in a practical IT system, we have developed a general framework for incident response, which is illustrated in Fig.~1. It is centered around an emulation system for creating a digital twin, i.e., a virtual replica of the target system. (With *target system*, we mean the system where the learned response strategies are intended to be deployed.) We use this twin to run attack scenarios and defender responses. Such runs produce system measurements and logs, from which we estimate infrastructure statistics. These statistics allow us to instantiate our game-theoretic model of the target system through *system identification*. We then leverage this model to learn response strategies through simulation, whose performance is assessed using the twin. This closed-loop process can be executed iteratively to provide progressively better strategies that are adapted to changing operational conditions.
+
+**Emulation system.** As described above, the emulation system in our framework is used to create a digital twin of the target system. The concept of a *digital twin* emerged in the 1960s when NASA used virtual environments to evaluate failure scenarios for lunar landers. Since then, digital twin has emerged as a key technology in automation and has been adopted in several industries, including the manufacturing industry, the automotive industry, and the healthcare industry. In our framework, a digital twin is a virtual replica of an IT system that provides a controlled environment for virtual operations (e.g., cyberattacks and responses), the outcomes of which can be used to optimize incident response strategies for the target system. Such a twin enables us to systematically test response strategies under different conditions, including varying attacks, operational workloads, and network latencies.
+
+**Simulation system.**
+The simulation system in our framework is used to run optimization algorithms for learning effective response strategies. While these algorithms could in principle be executed directly on the digital twin, this approach is not practical due to the long execution times required for carrying out actions and collecting observations in the digital twin. For instance, executing a cyberattack or a response action in a digital twin can take several minutes. In contrast, the simulation system abstracts these processes, allowing cyberattacks and response actions to be executed within milliseconds.
+
+With a *simulation*, we mean an execution of a *discrete-time dynamical system* of the form
+
+$$
+s_{t+1} \sim f(s_t, a^{(D)}_t, a_t^{(A)}),
+$$
+
+where $$s_t$$ is the system state at time $$t$$, $$a^{(D)}_t$$ is the defender action, $$a^{(A)}_t$$ is the attacker action, and $$s \sim f$$ means that $$s$$ is sampled from $$f$$. Each simulation path $$s_1,s_2,\hdots,s_t$$ is associated with performance metrics and operational costs. Our goal is to identify the defender actions that control the simulation in an optimal manner according to a specified security objective, such as quickly mitigating potential network intrusions while maintaining operational services.
+
+The framework described above is broadly applicable, extending beyond any specific response scenario, infrastructure configuration, optimization technique, or identification method. It can be instantiated with concepts from diverse fields, including control theory, game theory, causality, and optimization. These concepts are developed in-depth both theoretically and experimentally throughout the thesis. 
