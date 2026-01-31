@@ -3,6 +3,9 @@ layout: page
 title: Talks
 ---
 
+2026
+:   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, January 29, 2026.
+	[Slides](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning-3204/285696998)
 
 2026
 :   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; Singapore, January 22, 2026.
