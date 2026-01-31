@@ -15,7 +15,6 @@ title: News
 17 Oct '25
 :   Attending [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) in Taipei.
 ![aisec poster](/assets/aisec25_poster.jpg "AISec Poster")
-![aisec](/assets/aisec25.jpg "AISec")
 
 15 Sep '25
 :   Joining the editorial board of [IEEE TNSM](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board).
