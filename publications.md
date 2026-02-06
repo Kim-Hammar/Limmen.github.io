@@ -7,7 +7,7 @@ title: Publications
 ### Journals
 
 2026
-:   **Causal Online Learning of Safe Regions in Cloud Radio Access Networks**;
+:   **Causal Online Learning of Safe Regions in Cloud Radio Access Networks**; Journal paper, <span style="color:blue"> under review</span>.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
 	[arXiv(preprint)](https://arxiv.org/abs/2602.05280)
 	[bib](/assets/citations/col_26_hammar.bib)
