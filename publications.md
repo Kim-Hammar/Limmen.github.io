@@ -3,34 +3,32 @@ layout: page
 title: Publications
 ---
 
-### Preprints
+
+### Journals
+
+2026
+:   **Causal Online Learning of Safe Regions in Cloud Radio Access Networks**;
+     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
+	[arXiv(preprint)](https://arxiv.org/abs/2602.05280)
+	[bib](/assets/citations/col_26_hammar.bib)
 
 2025
-:   **Online Identification of IT Systems through Active Causal Learning**;
+:   **Online Identification of IT Systems through Active Causal Learning**; Journal paper, under review.
      **Kim Hammar** and Rolf Stadler
 	[arXiv(preprint)](https://arxiv.org/abs/2509.02130)
 	[bib](/assets/citations/ci_25_hammar.bib)
 
 2025
-:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**;
+:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, under review.
      **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
 	[bib](/assets/citations/aggregation_security_25_hammar.bib)
 
 2025
-:   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**;
+:   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**; Journal paper, under review.
      Yuchao Li, **Kim Hammar**, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.04646)
 	[bib](/assets/citations/li_feature_based.bib)
-
-2024
-:   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**;
-     **Kim Hammar**, Neil Dhir, and Rolf Stadler
-	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
-	[bib](/assets/citations/cage2_causal.bib)
-
-
-### Journals
 
 2025
 :   **Adaptive Security Response Strategies through Conjectural Online Learning**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).)
@@ -38,6 +36,12 @@ title: Publications
         [IEEE Proceedings](https://ieeexplore.ieee.org/document/10955193)    
 	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
 	[bib](/assets/citations/conjectural_learning24.bib)
+
+2024
+:   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**; Journal paper, under review.
+     **Kim Hammar**, Neil Dhir, and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
+	[bib](/assets/citations/cage2_causal.bib)
 
 2023
 :   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; Journal paper, TNSM 2023: IEEE Transactions on Network and Service Management (IEEE TNSM).
@@ -68,6 +72,8 @@ title: Publications
 2026
 :   **Hallucination-Resistant Security Planning with a Large Language Model**; Conference paper, IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
+     [arXiv(preprint)](https://arxiv.org/abs/2602.05280)
+     [bib](/assets/citations/noms_26_llm_security_hammar.bib)     
 
 2026
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; Conference paper, Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
