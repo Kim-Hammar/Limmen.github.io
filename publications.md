@@ -13,19 +13,19 @@ title: Publications
 	[bib](/assets/citations/col_26_hammar.bib)
 
 2025
-:   **Online Identification of IT Systems through Active Causal Learning**; Journal paper, under review.
+:   **Online Identification of IT Systems through Active Causal Learning**; Journal paper, <span style="color:blue"> under review</span>.
      **Kim Hammar** and Rolf Stadler
 	[arXiv(preprint)](https://arxiv.org/abs/2509.02130)
 	[bib](/assets/citations/ci_25_hammar.bib)
 
 2025
-:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, under review.
+:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, <span style="color:blue"> under review</span>.
      **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
 	[bib](/assets/citations/aggregation_security_25_hammar.bib)
 
 2025
-:   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**; Journal paper, under review.
+:   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**; Journal paper, <span style="color:blue"> under review</span>.
      Yuchao Li, **Kim Hammar**, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.04646)
 	[bib](/assets/citations/li_feature_based.bib)
@@ -38,7 +38,7 @@ title: Publications
 	[bib](/assets/citations/conjectural_learning24.bib)
 
 2024
-:   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**; Journal paper, under review.
+:   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**; Journal paper, <span style="color:blue"> under review</span>.
      **Kim Hammar**, Neil Dhir, and Rolf Stadler
 	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
 	[bib](/assets/citations/cage2_causal.bib)
