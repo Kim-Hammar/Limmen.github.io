@@ -78,6 +78,7 @@ title: Publications
 2026
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; Conference paper, Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
+	[proceedings](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/)          
 	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
 	[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
 	[bib](/assets/citations/llm_response_25_hammar.bib)
