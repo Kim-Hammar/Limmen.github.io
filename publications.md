@@ -70,10 +70,16 @@ title: Publications
 ### Conferences
 
 2026
+:   **In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**; Conference paper, AAAI summer symposium 2026, Seoul, South Korea, June 22-24 2026.
+     Yiran Gao, **Kim Hammar**, and Tao Li
+     [arXiv(preprint)](https://arxiv.org/pdf/2602.13156)
+     [bib](/assets/citations/aaai_26_summer_symposium_gao.bib)
+
+2026
 :   **Hallucination-Resistant Security Planning with a Large Language Model**; Conference paper, IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
      [arXiv(preprint)](https://www.arxiv.org/abs/2602.05279)
-     [bib](/assets/citations/noms_26_llm_security_hammar.bib)     
+     [bib](/assets/citations/noms_26_llm_security_hammar.bib) 
 
 2026
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; Conference paper, Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
