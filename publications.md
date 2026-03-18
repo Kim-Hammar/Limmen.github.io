@@ -92,8 +92,10 @@ title: Publications
 2026
 :   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; Conference paper, 40th AAAI Conference on Artificial Intelligence 2026, Singapore, January 20-27 2026.
      **Kim Hammar** and Tansu Alpcan
-     [AAAI Proceedings (Available soon)](/assets/papers/ccs_aisec_poster_hammar_li_25.pdf)          
-     [Poster](/assets/aaai26_poster_hammar_alpcan.pdf)     
+     [AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/38750)
+     [AAAI Video](https://ojs.aaai.org/index.php/AAAI/article/view/38750/49333)               
+     [Poster](/assets/aaai26_poster_hammar_alpcan.pdf)
+     [bib](/assets/citations/aaai_26_hammar_alpcan.bib)
 
 2025
 :   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; Conference paper, ACM CCS AiSec 2025: 18 th ACM Workshop on Artificial Intelligence and Security, Taipei, Taiwan, Oct 17.
