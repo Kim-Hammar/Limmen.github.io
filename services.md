@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Technical program committee member**, ACSAC 2026, Annual Computer Security Applications Conference (ACSAC).
+[link](https://www.acsac.org/)
+
 **Technical program committee member**, GameSec 2026, Interational Conference on Game Theory and AI for Security.
 [link](https://www.gamesec-conf.org/organization.php)
 
