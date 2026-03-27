@@ -6,6 +6,7 @@ title: Talks
 2026
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; San Diego, USA, February 24, 2026.
 	[Slides](https://www.slideshare.net/slideshow/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/286220446)
+       [NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)
 
 2026
 :   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, January 29, 2026.

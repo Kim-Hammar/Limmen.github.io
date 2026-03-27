@@ -86,6 +86,7 @@ title: Publications
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
 	[proceedings](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/)          
 	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
+        [NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)               	
 	[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
 	[bib](/assets/citations/llm_response_25_hammar.bib)
 
