@@ -64,7 +64,7 @@ title: Services
 **Reviewer** Springer Cybersecurity journal 2023-2025.
 [link](https://cybersecurity.springeropen.com/)
 
-**Reviewer ** International Conference on Networks, Communication and Information Technology (NCIT) 2022.
+**Reviewer** International Conference on Networks, Communication and Information Technology (NCIT) 2022.
 [link](http://www.ncitconf.org/) [certificate](/assets/awards/ncit_review_certificate_22.pdf)
 
 **Reviewer** The 6th international conference on computer science and application engineering (CSAE) 2022.
