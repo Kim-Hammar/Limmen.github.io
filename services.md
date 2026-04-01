@@ -3,7 +3,10 @@ layout: page
 title: Services
 ---
 
-**Technical program committee member**, ACSAC 2026, Annual Computer Security Applications Conference (ACSAC).
+**Technical program committee member**, GraSec 2026, 7th International Workshop on Graph-based Approaches for CyberSecurity 2026.
+[link](https://www.ares-conference.eu/grasec)
+
+**Technical program committee member**, ACSAC 2026, Annual Computer Security Applications Conference.
 [link](https://www.acsac.org/)
 
 **Technical program committee member**, GameSec 2026, Interational Conference on Game Theory and AI for Security.
