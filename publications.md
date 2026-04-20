@@ -68,6 +68,13 @@ title: Publications
 	[bib](/assets/citations/wi_journal.bib)
 
 ### Conferences
+2026
+:   **CSLE: A Reinforcement Learning Platform for Autonomous Security Management**; Conference paper, Ninth Annual Conference on Machine Learning and Systems (MLSys 2026) 2026, Bellevue, WA, USA, May 18th-22nd 2026.
+     **Kim Hammar**
+     [arXiv(preprint)](https://arxiv.org/abs/2604.15590)
+     [proceedings](https://mlsys.org/virtual/2026/oral/3812)               
+     [bib](/assets/citations/mlsys_26_csle.bib)
+
 
 2026
 :   **In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**; Conference paper, AAAI summer symposium 2026, Seoul, South Korea, June 22-24 2026.
