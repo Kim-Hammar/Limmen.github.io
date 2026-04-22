@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2026
+:   **Learning-based Control of Networked Systems**; Melbourne, Australia, April 22, 2026.
+	[Slides](https://www.slideshare.net/slideshow/learning-based-control-of-networked-systems/287140772)
+	[PDF](/assets/slides/kim_hammar_commsnets_unimelb_22_apr_2026.pdf)	
+
+2026
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; San Diego, USA, February 24, 2026.
 	[Slides](https://www.slideshare.net/slideshow/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/286220446)
        [NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)
