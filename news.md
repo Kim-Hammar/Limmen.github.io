@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+1 May '26 A blogpost about our IEEE NOMS 2026 paper is available [here](https://co-r-e.com/method/hallucination-resistant-security-planning)
+
 20 Feb '26 Heading to San Diego to present [our paper](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/) at NDSS 2026.
 
 22 Jan '26 Attending the AAAI Conference on Artificial Intelligence in Singapore and presenting our paper "Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees". The proceedings will be available soon.
