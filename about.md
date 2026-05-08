@@ -9,6 +9,10 @@ Previously he has been a visiting scholar at Arizona State University and Ph.D. 
 
 Contact me at kimham[at]kth.se for a more detailed CV.
 
+{% include image2.html url="/assets/Tansu-Kim-20260506.JPG" description="Postdoc Melbourne 2026" %}
+
+{% include image2.html url="/assets/az2.jpg" description="Postdoc Arizona 2025" %}
+
 {% include image2.html url="/assets/rolfs_group_1.JPG" description="Our research group. Feb 2021" %}
 
 A video about our research project is available here:
@@ -20,3 +24,7 @@ A video about our research project is available here:
 {% include image2.html url="/assets/nse_oct_2019.jpg" description="The Division of Network and Systems Engineering, KTH. October 2019" %}
 
 {% include image2.html url="/assets/nse_department_Oct_2021.jpg" description="The Division of Network and Systems Engineering, KTH. October 2021" %}
+
+{% include image2.html url="/assets/sf_train_office_w_jim.png" description="Hopsworks 2019" %}
+
+{% include image2.html url="/assets/allstate.jpg" description="Internship Chicago 2018" %}
