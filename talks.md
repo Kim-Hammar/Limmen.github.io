@@ -317,6 +317,11 @@ title: Talks
 	[PDF](/assets/slides/muzero_ml_reading_group_23_apr_21_KimHammar.pdf)
 
 2021
+:   **Self-Learning Systems for Cyber Defense**; Stockholm, Sweden, Mar 24 2021.
+    **Kim Hammar**, Rolf Stadler
+	[Video](https://www.youtube.com/watch?v=88W69Wu0FYM)
+
+2021
 :   **Self-Learning Systems for Cyber Security**; Stockholm, Sweden, KTH, NSE Seminar April 9 2021, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245974483)

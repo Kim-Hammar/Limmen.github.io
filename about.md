@@ -14,17 +14,3 @@ Contact me at kimham[at]kth.se for a more detailed CV.
 {% include image2.html url="/assets/az2.jpg" description="Postdoc Arizona 2025" %}
 
 {% include image2.html url="/assets/rolfs_group_1.JPG" description="Our research group. Feb 2021" %}
-
-A video about our research project is available here:
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=88W69Wu0FYM"><img src="https://img.youtube.com/vi/88W69Wu0FYM/0.jpg" alt="Research Pitch"></a>
-</div>
-
-{% include image2.html url="/assets/nse_oct_2019.jpg" description="The Division of Network and Systems Engineering, KTH. October 2019" %}
-
-{% include image2.html url="/assets/nse_department_Oct_2021.jpg" description="The Division of Network and Systems Engineering, KTH. October 2021" %}
-
-{% include image2.html url="/assets/sf_train_office_w_jim.png" description="Hopsworks 2019" %}
-
-{% include image2.html url="/assets/allstate.jpg" description="Internship Chicago 2018" %}
