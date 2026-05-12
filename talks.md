@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2026
+:   **Learning-based Control of Networked Systems**; Paris, France, May 12, 2026.
+	[Slides](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems/287473415)
+	[PDF](/assets/slides/paris_sorbonne_university_slides_12_may.pdf)	
+
+2026
 :   **Learning-based Control of Networked Systems**; Melbourne, Australia, April 22, 2026.
 	[Slides](https://www.slideshare.net/slideshow/learning-based-control-of-networked-systems/287140772)
 	[PDF](/assets/slides/kim_hammar_commsnets_unimelb_22_apr_2026.pdf)	
