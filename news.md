@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 
-9 May '26 Visiting Prof. Le Grand and Zequan Huang at [Paris 1 Panthéon-Sorbonne University](/assets/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University")
+9 May '26 Visiting Prof. Le Grand and Zequan Huang at [Paris 1 Panthéon-Sorbonne University](/assets/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University.") [Entree](/assets/AutorisationEntreeKimHammar.pdf "Entree")
 
 1 May '26 A blogpost about our IEEE NOMS 2026 paper is available [here](https://co-r-e.com/method/hallucination-resistant-security-planning)
 
