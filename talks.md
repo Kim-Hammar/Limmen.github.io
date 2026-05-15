@@ -4,12 +4,12 @@ title: Talks
 ---
 
 2026
-:   **Autonomous Security Management of Networked Systems through Learning-based Control**; Paris, France, May 15, 2026.
+:   **Autonomous Security Management of Networked Systems through Learning-based Control**; IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP) symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0), Paris, France, May 15, 2026.
 	[Slides](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems-9c08/287529877)
 	[PDF](/assets/slides/rising_star_ieee_tcsp_2026_15_may.pdf)	
 
 2026
-:   **Learning-based Control of Networked Systems**; Paris, France, May 12, 2026.
+:   **Learning-based Control of Networked Systems**; Paris 1 Panthéon-Sorbonne University, Paris, France, May 12, 2026.
 	[Slides](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems/287473415)
 	[PDF](/assets/slides/paris_sorbonne_university_slides_12_may.pdf)	
 
