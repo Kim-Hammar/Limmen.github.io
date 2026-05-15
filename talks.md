@@ -14,72 +14,72 @@ title: Talks
 	[PDF](/assets/slides/paris_sorbonne_university_slides_12_may.pdf)	
 
 2026
-:   **Learning-based Control of Networked Systems**; Melbourne, Australia, April 22, 2026.
+:   **Learning-based Control of Networked Systems**; University of Melbourne, Melbourne, Australia, April 22, 2026.
 	[Slides](https://www.slideshare.net/slideshow/learning-based-control-of-networked-systems/287140772)
 	[PDF](/assets/slides/kim_hammar_commsnets_unimelb_22_apr_2026.pdf)	
 
 2026
-:   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; San Diego, USA, February 24, 2026.
+:   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; NDSS, San Diego, USA, February 24, 2026.
 	[Slides](https://www.slideshare.net/slideshow/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/286220446)
        [NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)
 
 2026
-:   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, January 29, 2026.
+:   **Online Identification of IT Systems through Active Causal Learning**; University of Melbourne, Melbourne, Australia, January 29, 2026.
 	[Slides](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning-3204/285696998)
 
 2026
-:   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; Singapore, January 22, 2026.
+:   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; AAAI, Singapore, January 22, 2026.
 	[Slides](https://www.slideshare.net/slideshow/scalable-solutions-to-zero-sum-partially-observable-stochastic-games-through-belief-aggregation-with-approximation-guarantees/285440683)
 	[PDF](/assets/slides/AAAI26_Hammar_Alpcan.pdf)
 	[Video](https://www.youtube.com/watch?v=RzqFbvBoano)	
 
 2025
-:   **Incident Response Planning with a Foundation Model**; Melbourne, Australia, December 5, 2025.
+:   **Incident Response Planning with a Foundation Model**; University of Melbourne, Melbourne, Australia, December 5, 2025.
 	[Slides](https://www.slideshare.net/slideshow/incident-response-planning-with-a-foundation-model/284484184)
 	[PDF](/assets/slides/unimelb_incident_response_hammar_alpcan_lupu_dec_2025.pdf)
 
 2025
-:   **Online Identification of IT Systems through Active Causal Learning**; Melbourne, Australia, November 18, 2025.
+:   **Online Identification of IT Systems through Active Causal Learning**; Ericsson Research, Melbourne, Australia, November 18, 2025.
 	[Slides](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning/284185908)
 	[PDF](/assets/slides/causal_identification_hammar_stadler.pdf)
 	[Video](https://www.youtube.com/watch?v=PEv_ikad5DI)		
 
 2025
-:   **Automated Security with a Foundation Model**; Hong Kong, China, October 20, 2025.
+:   **Automated Security with a Foundation Model**; City University of Hong Kong, Hong Kong, China, October 20, 2025.
 	[Slides](https://www.slideshare.net/slideshow/automated-security-with-a-foundation-model/283860966)
 	[PDF](/assets/slides/CHK_talk_20_oct_25.pdf)
 
 2025
-:   **Approximation in Value Space using Aggregation, with Applications to POMDPs and Cybersecurity**; Arizona, USA, Apr 2, 2025.
+:   **Approximation in Value Space using Aggregation, with Applications to POMDPs and Cybersecurity**; Arizona State University, Arizona, USA, Apr 2, 2025.
 	[Slides](https://www.slideshare.net/slideshow/approximation-in-value-space-using-aggregation-with-applications-to-pomdps-and-cybersecurity/277463565)
 	[PDF](/assets/slides/ASU_aggregation_lecture_2_april_2025.pdf)
 	[Video](https://www.youtube.com/watch?v=gsD2JgTrUhU)
 
 2025
-:   **Adaptive Security Policies via Belief Aggregation and Rollout**; Stockholm, Sweden, Mar 3, 2025.
+:   **Adaptive Security Policies via Belief Aggregation and Rollout**; KTH Royal Institute of Technology, Stockholm, Sweden, Mar 3, 2025.
 	[Slides](https://www.slideshare.net/slideshow/adaptive-security-policies-via-belief-aggregation-and-rollout/276233202)
 	[PDF](/assets/slides/netcon_3_mar_25_kim_hammar.pdf)
 	[Video](https://www.youtube.com/watch?v=eb7YgVSpAsg)	
 
 2024
-:   **Optimal Security Response to Network Intrusions in IT Systems (PhD defense)**; Stockholm, Sweden, Dec 5, 2024.
+:   **Optimal Security Response to Network Intrusions in IT Systems (PhD defense)**; KTH Royal Institute of Technology, Stockholm, Sweden, Dec 5, 2024.
 	[Slides](https://www.slideshare.net/slideshow/optimal-security-response-to-network-intrusions-in-it-systems/273897370)
 	[PDF](/assets/slides/KH_defense_slides.pdf)
 	[Video](https://www.youtube.com/watch?v=n2zjh_YQjXY&)
 
 2024
-:   **Intrusion Tolerance as a Two-Level Game**; New York, USA, Oct 16, 2024.
+:   **Intrusion Tolerance as a Two-Level Game**; GameSec, New York, USA, Oct 16, 2024.
 	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-gamesec24/272500784)
 	[PDF](/assets/slides/hammar_gs24.pdf)
 
 2024
-:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Brisbane, Australia, June 27 2024
+:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; DSN, Brisbane, Australia, June 27 2024
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-for-networked-systems-through-two-level-feedback-control/269914107)
 	[PDF](/assets/slides/dsn24_hammar_stadler.pdf)
 
 2024
-:   **Intrusion Tolerance as a Two-Level Game**; Melbourne, Australia, June 20, 2024.
+:   **Intrusion Tolerance as a Two-Level Game**; University of Melbourne, Melbourne, Australia, June 20, 2024.
 	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-visit-to-melbourne-university/269781964)
 	[PDF](/assets/slides/presentation_at_unimelb_kim_hammar_20_june_2024.pdf)
 	[Video](https://www.youtube.com/watch?v=WOZFC_bdCW4)
@@ -127,7 +127,7 @@ title: Talks
 	[PDF](/assets/slides/nse_seminar_10_nov_2023_kim.pdf)
 
 2023
-:   **Scalable Learning of Intrusion Response through Recursive Decomposition**; Avignon, France, Oct 18 2023
+:   **Scalable Learning of Intrusion Response through Recursive Decomposition**; GameSec, Avignon, France, Oct 18 2023
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/gamesec23-scalable-learning-of-intrusion-response-through-recursive-decomposition)
 	[PDF](/assets/slides/gamesec23_hammar.pdf)
