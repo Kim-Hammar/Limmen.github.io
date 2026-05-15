@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+15 May '26 I was recognized as a "rising star" by the IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP)](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
+
 9 May '26 Visiting Prof. Le Grand and Zequan Huang at [Paris 1 Panthéon-Sorbonne University](/assets/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University.") [Entree](/assets/AutorisationEntreeKimHammar.pdf "Entree") ![sorbonne_2026](/assets/sorbonne_2026.jpeg "Visit to Panthéon-Sorbonne University")
 
 1 May '26 A blogpost about our IEEE NOMS 2026 paper is available [here](https://co-r-e.com/method/hallucination-resistant-security-planning)
