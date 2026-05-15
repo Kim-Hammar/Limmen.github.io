@@ -4,7 +4,7 @@ title: Talks
 ---
 
 2026
-:   **Learning-based Control of Networked Systems**; Paris, France, May 15, 2026.
+:   **Autonomous Security Management of Networked Systems through Learning-based Control**; Paris, France, May 15, 2026.
 	[Slides](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems-9c08/287529877)
 	[PDF](/assets/slides/rising_star_ieee_tcsp_2026_15_may.pdf)	
 
