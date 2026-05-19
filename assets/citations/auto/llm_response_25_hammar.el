@@ -4,6 +4,6 @@
  "llm_response_25_hammar"
  (lambda ()
    (LaTeX-add-bibitems
-    "hammar2025incidentresponseplanningusing"))
+    "DBLP:conf/ndss/HammarAL26"))
  '(or :bibtex :latex))
 
