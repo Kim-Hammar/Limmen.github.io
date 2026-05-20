@@ -4,6 +4,16 @@ title: Talks
 ---
 
 2026
+:   **CSLE: A Reinforcement Learning Platform for Autonomous Security Management**; Ninth Annual Conference on Machine Learning and Systems (MLSys 2026), Seattle, WA, USA, May 19, 2026.
+	[Slides](https://www.slideshare.net/slideshow/csle-a-reinforcement-learning-platform-for-autonomous-security-management/287610649)
+	[PDF](/assets/slides/mlsys26_slides_kim_hammar.pdf)
+
+2026
+:   **Optimal Security Management through Learning-based Control**; IEEE NOMS, Rome, Italy, May 20, 2026.
+	[Slides](https://www.slideshare.net/slideshow/optimal-security-management-through-learning-based-control/287610737)
+	[PDF](/assets/slides/noms_26_thesis_digest_kim_hammar.pdf)
+
+2026
 :   **Autonomous Security Management of Networked Systems through Learning-based Control**; IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP) symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0), Paris, France, May 15, 2026.
 	[Slides](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems-9c08/287529877)
 	[PDF](/assets/slides/rising_star_ieee_tcsp_2026_15_may.pdf)
