@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+27 May '25
+:   Moved to Imperial College London as a postdoctoral researcher (Dept. of Computing).x
+![unimelb](/assets/imperial.jpg "Imperial visit")
+
 15 May '26 I was recognized as a "rising star" by the IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP)](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
 
 9 May '26 Visiting Prof. Le Grand and Zequan Huang at [Paris 1 Panthéon-Sorbonne University](/assets/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University.") [Entree](/assets/AutorisationEntreeKimHammar.pdf "Entree") ![sorbonne_2026](/assets/sorbonne_2026.jpeg "Visit to Panthéon-Sorbonne University")
@@ -43,7 +47,7 @@ title: News
 :   A demo of our llm-based incident response system is available [here](https://www.youtube.com/watch?v=e7ckmv5p6cI)
 
 20 May '25
-:   Moved to The University of Melbourne as a postdoctoral researcher.
+:   Moved to The University of Melbourne as a postdoctoral researcher (Dept. of Electrical and Electronic Engineering).
 ![unimelb](/assets/unimelb_1.jpeg "Unimelb end-of-year")
 ![unimelb](/assets/unimelb.jpg "Unimelb visit")
 
