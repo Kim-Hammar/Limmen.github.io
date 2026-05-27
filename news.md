@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 
-27 May '25
+27 May '26
 :   Moved to Imperial College London as a postdoctoral researcher (Dept. of Computing).x
 ![unimelb](/assets/imperial.jpg "Imperial visit")
 
