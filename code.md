@@ -3,6 +3,19 @@ layout: page
 title: Code
 ---
 
+**A multiagent incident response system**; This repository includes the code of a multiagent incident response system that autonomously investigates security incidents and recommends optimized response actions.
+
+[Code repository](https://github.com/Kim-Hammar/multiagent-incident-response);
+[Video demonstration](https://www.youtube.com/watch?v=YXYk_5GCqUI);
+
+**5G Cloud RAN measurements**; We release a novel dataset comprising 168 hours of monitoring data collected from our 5G testbed.
+[Data repository](https://huggingface.co/datasets/kimhammar/5G_measurements);
+
+**Code and data for incident response LLM fine-tuning**; This repository contains the artifacts related to the paper "Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination", which is accepted to The Network and Distributed System Security (NDSS) Symposium 2026. We introduce a novel method that enables the effective use of a large language model (LLM) to provide decision support for incident response planning.
+[Code repository](https://github.com/Kim-Hammar/llm_incident_response_ndss26);
+[Data repository](https://huggingface.co/datasets/kimhammar/CSLE-IncidentResponse-V1);
+[Video demonstration](https://www.youtube.com/watch?v=XXo4Y6LCWk4);
+
 **The Cyber Security Learning Environment (CSLE)**; CSLE is a framework for evaluating and developing reinforcement learning agents for control problems in cyber security. Everything from network emulation, to simulation, and learning in CSLE have been co-designed to provide an environment where it is possible to train and evaluate reinforcement learning agents for practical cyber security tasks.
 [Code repository](https://github.com/Kim-Hammar/csle); [Documentation](https://kim-hammar.github.io/csle/)
 ![csle](/assets/csle_logo_cropped.png "CSLE")
