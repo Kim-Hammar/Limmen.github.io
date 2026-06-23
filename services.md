@@ -3,6 +3,8 @@ layout: page
 title: Services
 ---
 
+**Technical program committee member**, AAAI Conference on Artificial Intelligence 2027. 
+[link](https://aaai.org/conference/aaai/aaai-27/)
 
 **Reviewer**, IEEE Internet of Things Journal . 2026-Present.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
