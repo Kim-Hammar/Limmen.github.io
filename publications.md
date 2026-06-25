@@ -19,7 +19,7 @@ title: Publications
 	[bib](/assets/citations/ci_25_hammar.bib)
 
 2025
-:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, submitted.
+:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
      **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
 	[bib](/assets/citations/aggregation_security_25_hammar.bib)
@@ -31,7 +31,7 @@ title: Publications
 	[bib](/assets/citations/li_feature_based.bib)
 
 2025
-:   **Adaptive Security Response Strategies through Conjectural Online Learning**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).)
+:   **Adaptive Security Response Strategies through Conjectural Online Learning**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
     **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
         [IEEE Proceedings](https://ieeexplore.ieee.org/document/10955193)    
 	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
