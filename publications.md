@@ -79,6 +79,7 @@ title: Publications
 2026
 :   **In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**; Conference paper, AAAI summer symposium 2026, Seoul, South Korea, June 22-24 2026.
      Yiran Gao, **Kim Hammar**, and Tao Li
+     [AAAI proceedings](https://ojs.aaai.org/index.php/AAAI-SS/article/view/42938)     
      [arXiv(preprint)](https://arxiv.org/pdf/2602.13156)
      [bib](/assets/citations/aaai_26_summer_symposium_gao.bib)
 
