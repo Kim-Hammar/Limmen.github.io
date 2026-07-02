@@ -21,6 +21,7 @@ title: Publications
 2025
 :   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
      **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
+        [IEEE Proceedings](https://ieeexplore.ieee.org/document/11592598)    
 	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
 	[bib](/assets/citations/aggregation_security_25_hammar.bib)
 
