@@ -3,9 +3,12 @@ layout: page
 title: News
 ---
 
+2 Jul '26
+:    Our paper "Adaptive Network Security Policies via Belief Aggregation and Rollout" was accepted to [IEEE TIFS](https://ieeexplore.ieee.org/document/11592598).
+
 27 May '26
 :   Moved to Imperial College London as a postdoctoral researcher (Dept. of Computing).
-![unimelb](/assets/imperial.jpg "Imperial visit")
+![imperial](/assets/imperial.jpg "Imperial visit")
 
 15 May '26 I was recognized as a "rising star" by the IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP)](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
 
