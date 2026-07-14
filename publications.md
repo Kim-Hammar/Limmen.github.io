@@ -7,6 +7,12 @@ title: Publications
 ### Journals
 
 2026
+:   **Recovery Control in Replicated Systems through Autonomous Multiagent Rollout**; Journal paper, submitted.
+     **Kim Hammar** and Yuchao Li
+	[arXiv(preprint)](https://arxiv.org/abs/2607.11187)
+	[bib](/assets/citations/kim_yuchao_recovery.bib)
+
+2026
 :   **Causal Online Learning of Safe Regions in Cloud Radio Access Networks**; Journal paper, submitted.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
 	[arXiv(preprint)](https://arxiv.org/abs/2602.05280)
