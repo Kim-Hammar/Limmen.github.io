@@ -7,6 +7,11 @@ title: Publications
 ### Journals
 
 2026
+:   *Multiagent LLM Systems for Security Operations**; Journal paper, IEEE Security & Privacy.
+     **Kim Hammar**.
+	To appear.
+
+2026
 :   **Recovery Control in Replicated Systems through Autonomous Multiagent Rollout**; Journal paper, submitted.
      **Kim Hammar** and Yuchao Li
 	[arXiv(preprint)](https://arxiv.org/abs/2607.11187)
@@ -75,6 +80,12 @@ title: Publications
 	[bib](/assets/citations/wi_journal.bib)
 
 ### Conferences
+
+2026
+:   **Optimal Stopping of Self-Refining Foundation Models **; Conference paper, 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
+     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu.
+     To appear
+
 2026
 :   **CSLE: A Reinforcement Learning Platform for Autonomous Security Management**; Conference paper, Ninth Annual Conference on Machine Learning and Systems (MLSys 2026) 2026, Bellevue, WA, USA, May 18th-22nd 2026.
      **Kim Hammar**
