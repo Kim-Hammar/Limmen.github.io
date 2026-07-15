@@ -7,7 +7,7 @@ title: Publications
 ### Journals
 
 2026
-:   *Multiagent LLM Systems for Security Operations**; Journal paper, IEEE Security & Privacy.
+:   **Multiagent LLM Systems for Security Operations**; Journal paper, IEEE Security & Privacy.
      **Kim Hammar**.
 	To appear.
 
