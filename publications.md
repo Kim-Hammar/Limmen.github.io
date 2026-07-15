@@ -82,7 +82,7 @@ title: Publications
 ### Conferences
 
 2026
-:   **Optimal Stopping of Self-Refining Foundation Models **; Conference paper, 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
+:   **Optimal Stopping of Self-Refining Foundation Models**; Conference paper, 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu.
      To appear
 
