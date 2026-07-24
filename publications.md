@@ -89,8 +89,9 @@ title: Publications
 2026
 :   **CSLE: A Reinforcement Learning Platform for Autonomous Security Management**; Conference paper, Ninth Annual Conference on Machine Learning and Systems (MLSys 2026) 2026, Bellevue, WA, USA, May 18th-22nd 2026.
      **Kim Hammar**
-     [arXiv(preprint)](https://arxiv.org/abs/2604.15590)
-     [proceedings](https://mlsys.org/virtual/2026/oral/3812)               
+     [proceedings](https://proceedings.mlsys.org/paper_files/paper/2026/file/87eaaa8605a1a472d9a9756e7500517b-Paper-Conference.pdf)                    
+     [presentation](https://mlsys.org/virtual/2026/oral/3812)
+     [arXiv(preprint)](https://arxiv.org/abs/2604.15590)     
      [bib](/assets/citations/mlsys_26_csle.bib)
 
 

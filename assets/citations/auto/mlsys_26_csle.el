@@ -4,6 +4,6 @@
  "mlsys_26_csle"
  (lambda ()
    (LaTeX-add-bibitems
-    "hammar2026cslereinforcementlearningplatform"))
+    "MLSYS2026_87eaaa86"))
  '(or :bibtex :latex))
 
