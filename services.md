@@ -88,7 +88,7 @@ title: Services
 **Reviewer** IEEE/IFIP Network Operations and Management Symposium (NOMS) 2022-2025.
 [link](https://noms2022.ieee-noms.org/)
 
-**Reviewer** International Conference on Network and Service Management (CNSM) 2022-2025.
+**Reviewer** International Conference on Network and Service Management (CNSM) 2022-2026.
 [link](http://www.cnsm-conf.org/2021/)
 
 **Member** AAAI, Association for the Advancement of Artificial Intelligence (2025-).
@@ -99,6 +99,9 @@ title: Services
 
 **Video streaming chair** CDIS spring conference 2021. Managed video conference over zoom with ~150 participants.
 [link](https://www.kth.se/cdis)
+
+**Reviewer** Journal of King Saud University Computer and Information Sciences 2026.
+[link](https://link.springer.com/journal/44443)
 
 **Reviewer** IEEE Communications Letter 2020.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)
