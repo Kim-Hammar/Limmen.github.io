@@ -83,6 +83,11 @@ title: Publications
 ### Conferences
 
 2026
+:   **Multiagent Incident Response Planning with Code Models**; Conference paper, Conference on Game Theory and AI for Security (GameSec), Ann Harbor, Michigan, USA, October 26th-28th 2026.
+     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu.
+     To appear
+
+2026
 :   **Optimal Stopping of Self-Refining Foundation Models**; Conference paper, 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu.
      To appear
