@@ -9,7 +9,8 @@ title: Publications
 2026
 :   **Multiagent LLM Systems for Security Operations**; Journal paper, IEEE Security & Privacy.
      **Kim Hammar**.
-	To appear.
+     [IEEE Proceedings](https://ieeexplore.ieee.org/document/11636000)
+     [bib](/assets/citations/ieee_s_p_kim_2026.bib)     
 
 2026
 :   **Recovery Control in Replicated Systems through Autonomous Multiagent Rollout**; Journal paper, submitted.
