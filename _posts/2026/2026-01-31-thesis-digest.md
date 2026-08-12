@@ -39,7 +39,7 @@ We develop mathematical tools for incident response and prove structural propert
 
 We design a general framework for optimal incident response; see Fig. 1. Additionally, we present the **C**yber **S**ecurity **L**earning **E**nvironment (CSLE), an open-source platform that implements our framework. Unlike previous simulation-based solutions, our framework provides practical insights beyond a specific response scenario. The source-code is available [here](https://github.com/Kim-Hammar/csle).
 
-![Fig. 1](/assets/blog/thesis-digest/thesis_digest_1.png "Architectural overview of our framework for automated, optimal, and adaptive incident response in IT systems."){: width="400" .center}
+![Fig. 1](/assets/blog/2026/thesis-digest/thesis_digest_1.png "Architectural overview of our framework for automated, optimal, and adaptive incident response in IT systems."){: width="400" .center}
 
 *Fig. 1: Architectural overview of our framework for automated, optimal, and adaptive incident response in IT systems.*
 
@@ -49,7 +49,7 @@ Incident response involves selecting a sequence of actions that restores a netwo
 
 Figure 2 illustrates the phases of incident response. Following the attack are detection and response time intervals, which represent the time to detect the attack and form a response, respectively. These phases are followed by a *recovery time* interval T, during which response actions are deployed. The objective is to keep this interval as short as possible to limit the cost of the incident. For example, in the event of a ransomware attack, a delay of a few minutes in containing the attack may allow the malware to encrypt systems or spread laterally.
 
-![Fig. 2](/assets/blog/thesis-digest/thesis_digest_2.png "Phases and performance metrics of the incident response problem."){: width="400" .center}
+![Fig. 2](/assets/blog/2026/thesis-digest/thesis_digest_2.png "Phases and performance metrics of the incident response problem."){: width="400" .center}
 
 *Fig. 2: Phases and performance metrics of the incident response problem.*
 
@@ -96,7 +96,7 @@ We have implemented our framework in an open-source software platform called the
 
 CSLE stores metadata in a distributed database referred to as the *metastore*, which is based on Citus. This database consists of N replicas, one per server. A quorum-based two-phase commit scheme is used to achieve consensus among replicas. One replica is a designated **leader** and is responsible for coordination. The others are **workers**. A new leader is elected by a quorum whenever the current leader fails or becomes unresponsive. CSLE thus tolerates up to $$\frac{N}{2}-1$$ failing servers.
 
-![Fig. 3](/assets/blog/thesis-digest/thesis_digest_3.png "The architecture of the software platform that implements our framework (CSLE). It is a distributed system with N servers (N=6 in this example), which are connected through a database (the metastore) and a virtualization layer provided by Docker Swarm."){: width="400" .center}
+![Fig. 3](/assets/blog/2026/thesis-digest/thesis_digest_3.png "The architecture of the software platform that implements our framework (CSLE). It is a distributed system with N servers (N=6 in this example), which are connected through a database (the metastore) and a virtualization layer provided by Docker Swarm."){: width="400" .center}
 
 *Fig. 3: The architecture of the software platform that implements our framework (CSLE). It is a distributed system with N servers (N=6 in this example), which are connected through a database (the metastore) and a virtualization layer provided by Docker Swarm.*
 
@@ -118,7 +118,7 @@ We emulate clients of the target system through processes in the digital twin th
 
 We emulate network connectivity in digital twins through virtual links implemented by Linux bridges and network namespaces. Network conditions of virtual links are created using the NetEm module in the Linux kernel. This module allows setting bit rates, packet delays, packet loss probabilities, and jitter. For example, the standard configuration in CSLE is to emulate connections between servers in an IT system with full-duplex lossless connections of 1 Gbit/s capacity in both directions. Similarly, the default configuration for external communications is full-duplex connections of 100 Mbit/s capacity and 0.1% packet loss with random bursts of 1% packet loss. These numbers are based on measurements on wide-area networks.
 
-![Fig. 4](/assets/blog/thesis-digest/thesis_digest_4.png "A digital twin in our framework is a virtual replica of a target system that runs the same software but on virtualized hardware."){: width="300" .center}
+![Fig. 4](/assets/blog/2026/thesis-digest/thesis_digest_4.png "A digital twin in our framework is a virtual replica of a target system that runs the same software but on virtualized hardware."){: width="300" .center}
 
 *Fig. 4: A digital twin in our framework is a virtual replica of a target system that runs the same software but on virtualized hardware.*
 
@@ -136,7 +136,7 @@ The simulation system in CSLE is implemented in Python and consists of reinforce
 
 We demonstrate our framework by applying it to four different use cases: network flow control, network segmentation, replication control, and recovery control. Each use case involves a target system and a system operator (which we refer to as the *defender*) that can take response actions; see Fig. 5. The example use cases are described in detail below.
 
-![Fig. 5](/assets/blog/thesis-digest/thesis_digest_5.png "Target systems for the use cases in the evaluation. The detailed system configurations are available in the thesis."){: width="800" .center}
+![Fig. 5](/assets/blog/2026/thesis-digest/thesis_digest_5.png "Target systems for the use cases in the evaluation. The detailed system configurations are available in the thesis."){: width="800" .center}
 
 *Fig. 5: Target systems for the use cases in the evaluation. The detailed system configurations are available in the thesis.*
 
@@ -186,7 +186,7 @@ We address each use case described above through our general framework described
 
 The evaluation results are summarized in Fig. 6. The red and blue curves represent the results from the simulator and the digital twin, respectively. An analysis of the graphs in Fig. 6 leads us to the following conclusions. The learning curves converge to constant mean values for all use cases and evaluation metrics. From this observation, we conclude that the learned response strategies have also converged.
 
-![Fig. 6](/assets/blog/thesis-digest/thesis_digest_6.png "Convergence curves for the different use cases. The red curves relate to the performance in the simulations and the blue curves relate to the performance in the digital twins. Curves show the mean value from evaluations with 3 random seeds; shaded areas indicate standard deviations. The x-axes indicate the training time in simulation. The top row relates to Markov decision processes. The bottom row relates to game-theoretic models."){: width="800" .center}
+![Fig. 6](/assets/blog/2026/thesis-digest/thesis_digest_6.png "Convergence curves for the different use cases. The red curves relate to the performance in the simulations and the blue curves relate to the performance in the digital twins. Curves show the mean value from evaluations with 3 random seeds; shaded areas indicate standard deviations. The x-axes indicate the training time in simulation. The top row relates to Markov decision processes. The bottom row relates to game-theoretic models."){: width="800" .center}
 
 *Fig. 6: Convergence curves for the different use cases. The red curves relate to the performance in the simulations and the blue curves relate to the performance in the digital twins. Curves show the mean value from evaluations with 3 random seeds; shaded areas indicate standard deviations. The x-axes indicate the training time in simulation. The top row relates to Markov decision processes. The bottom row relates to game-theoretic models.*
 

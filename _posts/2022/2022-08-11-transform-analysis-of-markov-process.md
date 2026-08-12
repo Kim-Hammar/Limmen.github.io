@@ -80,7 +80,7 @@ $$
 
 **State transition diagram**
 
-![State transition diagram](/assets/blog/transform-analysis-of-markov-process/transition_diagram_example_markov_process.png "State transition diagram"){: width="250" .center}
+![State transition diagram](/assets/blog/2022/transform-analysis-of-markov-process/transition_diagram_example_markov_process.png "State transition diagram"){: width="250" .center}
 
 **Existence of stationary distribution.** It is trivial to show that the Markov process defined above has a unique stationary distribution by applying the fundamental theorem.
 
@@ -173,7 +173,7 @@ $$
 
 In our case, power iteration converges in less than around $$20$$ iterations:
 
-![Power iteration convergence](/assets/blog/transform-analysis-of-markov-process/pi_convergence_1.png "Convergence of power iteration"){: width="650" .center}
+![Power iteration convergence](/assets/blog/2022/transform-analysis-of-markov-process/pi_convergence_1.png "Convergence of power iteration"){: width="650" .center}
 
 ### Finding the Stationary Distribution through Transform Analysis
 

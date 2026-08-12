@@ -5,6 +5,6 @@ updated: 2023-05-27 17:52
 
 ### Interest in the search term "AI cybersecurity" for the last 20 years
 
-![google_trends.png.](/assets/blog/rl-google-trends/google_trends.png "Figure 1: Google trends")
+![google_trends.png.](/assets/blog/2023/rl-google-trends/google_trends.png "Figure 1: Google trends")
 
 An interesting peak around 2005..

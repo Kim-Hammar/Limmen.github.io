@@ -44,7 +44,7 @@ where $$x \in [0, x_{max}]$$ is the number of alerts and $$y \in [0, y_{max}]$$ 
 
 The resulting distriubtions looks as follows:
 
-![TTC Model of Alerts and Login Attempts](/assets/blog/TTC-Alerts/ttc.png "TTC Model of Alerts and Login Attempts")
+![TTC Model of Alerts and Login Attempts](/assets/blog/2021/TTC-Alerts/ttc.png "TTC Model of Alerts and Login Attempts")
 
 
 ### References

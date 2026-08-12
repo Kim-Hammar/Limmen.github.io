@@ -41,7 +41,7 @@ $$v_i = f_i(pa_i, u_i), \quad \quad i=1,...,n $$
 
 where $$U_i \subseteq U$$, and $$dom(\cdot)$$ denotes the domain of a variable.
 
-![example causal diagram](/assets/blog/structured-causal-models-and-MDPs/ctf_example_4.png "example causal diagram"){: .center}
+![example causal diagram](/assets/blog/2022/structured-causal-models-and-MDPs/ctf_example_4.png "example causal diagram"){: .center}
 
 ## Markov decision processes (MDPs)
 
@@ -89,7 +89,7 @@ The system evolves in discrete time-steps from $$t=1$$ to $$t=T$$, which constit
 
 Consider the classical computer security challenge of *Capture the Flag* (CTF). In this challenge, the goal of the decision maker is to collect a set of flags hidden in a computer infrastructure. For ease of exposition, we focus on the case where there is only five computers, a single flag, and four time-steps ($$T=4$$) see the figure below:
 
-![example shortest path problem](/assets/blog/structured-causal-models-and-MDPs/ctf_example_1.png "example shortest path problem"){: .center}
+![example shortest path problem](/assets/blog/2022/structured-causal-models-and-MDPs/ctf_example_1.png "example shortest path problem"){: .center}
 
 We model the infrastructure as a graph $$\mathcal{G} = \langle \mathcal{N}, \mathcal{E} \rangle$$. The nodes $$\mathcal{N} = \{N_1,...,N_5\}$$ represent components of the infrastructure and the edges $$\mathcal{E} = \{e_{1,2}, e_{1,3}, e_{3,1}, e_{2,4}, e_{4,2}, e_{3,4}, e_{4,5}, e_{5,4}\}$$ represent connectivity between components. A flag is hidden at node $$N_5$$. The decision maker is located in a dedicated start position $$N_1$$, from which he can move to adjacent nodes in the infrastructure through execution of network commands. Associated with each edge $$e_{i,j}$$ is a cost $$C_{i,j}$$, that represents the cost of moving from node $$i$$ to node $$j$$ in the network:
 
@@ -235,7 +235,7 @@ $$
 
 which has an associated causal diagram $$\mathcal{G}$$:
 
-![causal diagram for the example use case](/assets/blog/structured-causal-models-and-MDPs/ctf_example_2.png "causal diagram for the example use case"){: .center}
+![causal diagram for the example use case](/assets/blog/2022/structured-causal-models-and-MDPs/ctf_example_2.png "causal diagram for the example use case"){: .center}
 
 
 Assume that we intervene and set the policy to:
@@ -303,7 +303,7 @@ $$
 
 which has an associated causal diagram $$\mathcal{G}$$:
 
-![causal diagram for the example use case](/assets/blog/structured-causal-models-and-MDPs/ctf_example_3.png "causal diagram for the example use case"){: .center}
+![causal diagram for the example use case](/assets/blog/2022/structured-causal-models-and-MDPs/ctf_example_3.png "causal diagram for the example use case"){: .center}
 
 
 ## Conclusions

@@ -5,7 +5,7 @@ updated: 2022-10-13 11:23
 
 The global climate is changing. Since the end of the 19th century, the global average temperature has increased with 1 degree and the expectation is that it will increase by an additional 2-6 degrees by the end of the 21st century unless drastic measures are taken [12,11]. One of the main causes of the global warming is believed to be the increased levels of greenhouse gases in the atmosphere, which was hypothesized by Fourier already in 1807 [4,3]. This "greenhouse effect" keeps the Earth's temperature far higher than it would otherwise be. As a response, climate engineering has been suggested. Climate engineering seeks to reduce global warming by manipulating the climate; for example via reducing the emission of greenhouse gases. In 2015, a legally binding international treaty, known as the *Paris Agreement*, was adopted by $$193$$ states [7,10]. This treaty declares that global warming should be kept well below $$2$$ degrees compared to pre-industrialization (mid 19th century) levels, which requires significant climate engineering efforts. In this blog post, I show how the theory of optimal control can guide climate engineering to achieve desired effects on the climate and meet the Paris agreement. I model the global climate as a nonlinear dynamical system, derive structural properties of the optimal control strategy using Pontryagin's minimum principle, and I compute the numerical control values using nonlinear constrained optimization.
 
-![earth_control](/assets/blog/optimal-control-for-a-better-world/earth_control.png "Climate engineering as an optimal control problem."){: width="650" .center}
+![earth_control](/assets/blog/2022/optimal-control-for-a-better-world/earth_control.png "Climate engineering as an optimal control problem."){: width="650" .center}
 
 ## Climate System Model
 
@@ -13,7 +13,7 @@ Our model of the climate system is focused on global warming and is inspired by 
 
 Accurate modeling of the climate is difficult as it depends on all the natural spheres (e.g. atmosphere, biosphere, hydrosphere, and geosphere). For our purposes, analytic tractability is valued higher than exact precision. We therefore choose to use a model with few parameters to ensure computational tractability and to obtain theoretical insight. In particular, we use a nonlinear dynamical system model of two states and one control input (see below).
 
-![climate_data_time_series](/assets/blog/optimal-control-for-a-better-world/climate_data_time_series.png "Historical global climate data; the upper plot shows the evolution of the $$CO_2$$ concentration in the atmosphere; the middle plot shows the evolution of $$CO_2$$ emissions; the lower plot shows the evolution of land temperature on Earth."){: width="650" .center}
+![climate_data_time_series](/assets/blog/2022/optimal-control-for-a-better-world/climate_data_time_series.png "Historical global climate data; the upper plot shows the evolution of the $$CO_2$$ concentration in the atmosphere; the middle plot shows the evolution of $$CO_2$$ emissions; the lower plot shows the evolution of land temperature on Earth."){: width="650" .center}
 
 **States.** The state is $$x(t)=\begin{bmatrix}x_1(t) & x_2(t) \end{bmatrix}^T \in \mathbb{R}^2$$ where $$x_1(t)$$ is the atmospheric concentration of $$CO_2$$ and $$x_2(t)$$ is the global temperature ($$C^{\circ}$$) increase over preindustrial level (mid 19th century level).
 
@@ -61,11 +61,11 @@ where $$x(t)$$ is the predicted values of $$CO_2$$ concentration and temperature
 
 The convergence curve of Bayesian optimization is shown below:
 
-![system_id](/assets/blog/optimal-control-for-a-better-world/system_id.png "Convergence curves produced by optimizing model parameters through Bayesian optimization; the x-axis shows the optimization iteration; the y-axis shows the norm of the difference between the historical climate data and the predicted climate trajectories."){: width="650" .center}
+![system_id](/assets/blog/2022/optimal-control-for-a-better-world/system_id.png "Convergence curves produced by optimizing model parameters through Bayesian optimization; the x-axis shows the optimization iteration; the y-axis shows the norm of the difference between the historical climate data and the predicted climate trajectories."){: width="650" .center}
 
 A comparison between the state trajectory predicted by the model with the optimized parameters $$\alpha=0.93,\delta=-0.05,\beta=0.01,\gamma=3.398,\epsilon=0.14$$ and the historical climate data is shown below:
 
-![climate_system_model_2](/assets/blog/optimal-control-for-a-better-world/climate_system_model_2.png "Comparison between historical climate data ($x_{real}(t)$) from the years $1960-2015$ and the $CO_2$ levels and temperature increase predicted by the model ($x(t$)); the model outputs were produced numerically through the Runge-Kutta method."){: width="650" .center}
+![climate_system_model_2](/assets/blog/2022/optimal-control-for-a-better-world/climate_system_model_2.png "Comparison between historical climate data ($x_{real}(t)$) from the years $1960-2015$ and the $CO_2$ levels and temperature increase predicted by the model ($x(t$)); the model outputs were produced numerically through the Runge-Kutta method."){: width="650" .center}
 
 
 ## The Optimal Control Problem
@@ -103,7 +103,7 @@ $$
 
 is a convex function that is linearly increasing in the temperature $$x_2(t)$$ and decreasing in the amount of $$CO_2$$ emissions (assuming that social welfare benefits from increased production).
 
-![stage_cost](/assets/blog/optimal-control-for-a-better-world/stage_cost.png "The stage cost $f_0(x(t), u(t))$ captures both the cost of reducing $CO_2$ emissions (reducing $u(t)$) and the cost of increasing global warming (increasing $x_2(t)$)."){: width="400" .center}
+![stage_cost](/assets/blog/2022/optimal-control-for-a-better-world/stage_cost.png "The stage cost $f_0(x(t), u(t))$ captures both the cost of reducing $CO_2$ emissions (reducing $u(t)$) and the cost of increasing global warming (increasing $x_2(t)$)."){: width="400" .center}
 
 ## Analysis of the Optimal Controller using Pontryagin's Principle
 
@@ -219,7 +219,7 @@ $$
 
 with constants $$\alpha=0.9,\delta=-0.05,\beta=0.01,\gamma=0,\epsilon=0.14$$ and $$t_f=1000$$ are shown in the figure below. From the results in the figure we conclude that the optimal control is to reduce the $$CO_2$$ emissions to a level close to zero for the coming $$800$$ years and then to increase the emissions exponentially around year $$800$$. This control law keeps the temperature increase safely below $$2$$ degrees and quickly reduces the $$CO_2$$ concentration in the atmosphere. That the optimal control is to first reduce the $$CO_2$$ emissions and then to increase it is a result of the fixed time horizon $$t_f$$. Since the time horizon is fixed, it is optimal to act myopically when close to the final time since any dynamical effects after the final time will not affect the cost. From this observation we conclude that to obtain more sensible results, an infinite horizon version of the optimal control problem should be considered.
 
-![numerical results](/assets/blog/optimal-control-for-a-better-world/numerical_results.png "Numerical results when following the optimal control law; the upper plot shows the evolution of the $$CO_2$$ concentration in the atmosphere during the years $$2000-3000$$ ($$x_1(t)$$); the middle plot shows the evolution of land temperature on Earth ($$x_2(t)$$); and the middle plot shows the evolution of the control $$u(t)$$ (amount of $$CO_2$$ emissions);"){: width="650" .center}
+![numerical results](/assets/blog/2022/optimal-control-for-a-better-world/numerical_results.png "Numerical results when following the optimal control law; the upper plot shows the evolution of the $$CO_2$$ concentration in the atmosphere during the years $$2000-3000$$ ($$x_1(t)$$); the middle plot shows the evolution of land temperature on Earth ($$x_2(t)$$); and the middle plot shows the evolution of the control $$u(t)$$ (amount of $$CO_2$$ emissions);"){: width="650" .center}
 
 ## Discussion
 

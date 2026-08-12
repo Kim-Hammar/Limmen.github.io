@@ -44,4 +44,4 @@ The results demonstrate that the GPU scale very well with larger neural network 
 | 1 Tesla P100 GPU          | 95s      | 99s       | 98s       | 116s      | 192s      | 199s      |
 | 2 Tesla P100 GPU          | 97s      | 101s      | 109s      | 107s      | 115s      | 181s      |
 
-![GPU Benchmark Results](/assets/blog/gpu-benchmark/gpu_benchmark_results.png "GPU Benchmark Results")
+![GPU Benchmark Results](/assets/blog/2020/gpu-benchmark/gpu_benchmark_results.png "GPU Benchmark Results")
