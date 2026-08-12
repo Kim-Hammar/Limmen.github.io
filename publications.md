@@ -28,6 +28,7 @@ To appear
 Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
 To appear
 [arXiv(preprint)](https://arxiv.org/abs/2608.10729)
+[bib](/assets/citations/2026/cdc.bib)
 
 [ESORICS] *Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning*; 31st European Symposium on Research in Computer Security (ESORICS) 2026.
 Yiran Gao, Tao Li, and Kim Hammar.
