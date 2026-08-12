@@ -11,13 +11,18 @@ published: true
   </head>
   <body>
 
-    {% include header.html %}
-    {% include nav.html %}
+    <div id="layout">
+      <nav id="layout-menu">
+        {% include nav.html %}
+      </nav>
 
-    <div id="content">
-      {{ content }}
+      <div id="layout-content">
+        <div id="content">
+          {{ content }}
+        </div>
+
+        {% include footer.html %}
+      </div>
     </div>
-
-    {% include footer.html %}
 	</body>
 </html>

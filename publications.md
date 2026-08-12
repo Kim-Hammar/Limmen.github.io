@@ -3,409 +3,346 @@ layout: page
 title: Publications
 ---
 
+### 2026
 
-### Journals
+[IEEE S&P] *Multiagent LLM Systems for Security Operations*; IEEE Security & Privacy.
+Kim Hammar.
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/11636000)
+[bib](/assets/citations/2026/ieee_s_p.bib)
 
-2026
-:   **Multiagent LLM Systems for Security Operations**; Journal paper, IEEE Security & Privacy.
-     **Kim Hammar**.
-     [IEEE Proceedings](https://ieeexplore.ieee.org/document/11636000)
-     [bib](/assets/citations/ieee_s_p_kim_2026.bib)     
+[Submitted] *Recovery Control in Replicated Systems through Autonomous Multiagent Rollout*; submitted.
+Kim Hammar and Yuchao Li
+[arXiv(preprint)](https://arxiv.org/abs/2607.11187)
+[bib](/assets/citations/2026/recovery_control.bib)
 
-2026
-:   **Recovery Control in Replicated Systems through Autonomous Multiagent Rollout**; Journal paper, submitted.
-     **Kim Hammar** and Yuchao Li
-	[arXiv(preprint)](https://arxiv.org/abs/2607.11187)
-	[bib](/assets/citations/kim_yuchao_recovery.bib)
+[Submitted] *Causal Online Learning of Safe Regions in Cloud Radio Access Networks*; submitted.
+Kim Hammar, Tansu Alpcan, and Emil C. Lupu
+[arXiv(preprint)](https://arxiv.org/abs/2602.05280)
+[bib](/assets/citations/2026/causal_online_learning.bib)
 
-2026
-:   **Causal Online Learning of Safe Regions in Cloud Radio Access Networks**; Journal paper, submitted.
-     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
-	[arXiv(preprint)](https://arxiv.org/abs/2602.05280)
-	[bib](/assets/citations/col_26_hammar.bib)
+[GameSec] *Multiagent Incident Response Planning with Code Models*; Conference on Game Theory and AI for Security (GameSec), Ann Harbor, Michigan, USA, October 26th-28th 2026.
+Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
+To appear
 
-2025
-:   **Online Identification of IT Systems through Active Causal Learning**; Journal paper, submitted.
-     **Kim Hammar** and Rolf Stadler
-	[arXiv(preprint)](https://arxiv.org/abs/2509.02130)
-	[bib](/assets/citations/ci_25_hammar.bib)
+[CDC] *Optimal Stopping of Self-Refining Foundation Models*; 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
+Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
+To appear
+[arXiv(preprint)](https://arxiv.org/abs/2608.10729)
 
-2025
-:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
-     **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
-        [IEEE Proceedings](https://ieeexplore.ieee.org/document/11592598)    
-	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
-	[bib](/assets/citations/aggregation_security_25_hammar.bib)
+[ESORICS] *Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning*; 31st European Symposium on Research in Computer Security (ESORICS) 2026.
+Yiran Gao, Tao Li, and Kim Hammar.
+To appear
+[arXiv(preprint)](https://arxiv.org/abs/2608.02422)
+[bib](/assets/citations/2026/esorics.bib)
 
-2025
-:   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**; Journal paper, submitted.
-     Yuchao Li, **Kim Hammar**, and Dimitri Bertsekas
-	[arXiv(preprint)](https://arxiv.org/abs/2507.04646)
-	[bib](/assets/citations/li_feature_based.bib)
+[MLSys] *CSLE: A Reinforcement Learning Platform for Autonomous Security Management*; Ninth Annual Conference on Machine Learning and Systems (MLSys 2026) 2026, Bellevue, WA, USA, May 18th-22nd 2026.
+Kim Hammar
+[proceedings](https://proceedings.mlsys.org/paper_files/paper/2026/file/87eaaa8605a1a472d9a9756e7500517b-Paper-Conference.pdf)
+[presentation](https://mlsys.org/virtual/2026/oral/3812)
+[arXiv(preprint)](https://arxiv.org/abs/2604.15590)
+[bib](/assets/citations/2026/mlsys.bib)
 
-2025
-:   **Adaptive Security Response Strategies through Conjectural Online Learning**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
-    **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
-        [IEEE Proceedings](https://ieeexplore.ieee.org/document/10955193)    
-	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
-	[bib](/assets/citations/conjectural_learning24.bib)
+[AAAI symposium] *In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach*; AAAI summer symposium 2026, Seoul, South Korea, June 22-24 2026.
+Yiran Gao, Kim Hammar, and Tao Li
+[AAAI proceedings](https://ojs.aaai.org/index.php/AAAI-SS/article/view/42938)
+[arXiv(preprint)](https://arxiv.org/pdf/2602.13156)
+[bib](/assets/citations/2026/aaai_symposium.bib)
 
-2024
-:   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**; Journal paper, submitted.
-     **Kim Hammar**, Neil Dhir, and Rolf Stadler
-	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
-	[bib](/assets/citations/cage2_causal.bib)
+[NOMS] *Hallucination-Resistant Security Planning with a Large Language Model*; IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
+Kim Hammar, Tansu Alpcan, and Emil C. Lupu
+[arXiv(preprint)](https://www.arxiv.org/abs/2602.05279)
+[bib](/assets/citations/2026/noms.bib)
 
-2023
-:   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; Journal paper, TNSM 2023: IEEE Transactions on Network and Service Management (IEEE TNSM).
-    **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10175554)
-	[arXiv(preprint)](https://arxiv.org/abs/2301.06085)
-	[PDF(preprint)](/assets/papers/TNSM_23_preprint_learning_Hammar_Stadler_18_Jan.pdf)
-	[bib](/assets/citations/tnsm_23_hammar_stadler.bib)
+[NDSS] *Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination*; Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
+Kim Hammar, Tansu Alpcan, and Emil C. Lupu
+[proceedings](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/)
+[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
+[NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)
+[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
+[bib](/assets/citations/2026/ndss.bib)
 
+[AAAI] *Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees*; 40th AAAI Conference on Artificial Intelligence 2026, Singapore, January 20-27 2026.
+Kim Hammar and Tansu Alpcan
+[AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/38750)
+[AAAI Video](https://ojs.aaai.org/index.php/AAAI/article/view/38750/49333)
+[Poster](/assets/papers/2026/aaai_poster.pdf)
+[bib](/assets/citations/2026/aaai.bib)
 
-2022
-:   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
-    **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9779345)
-	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
-	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
-	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)
+### 2025
 
-2020
-:   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
-    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
-	[Link](https://content.iospress.com/articles/web-intelligence/web200428)
-	[PDF](/assets/papers/journal_wi_2020_hammar_jaradat_dokohaaki_matskin.pdf)
-	[bib](/assets/citations/wi_journal.bib)
+[Submitted] *Online Identification of IT Systems through Active Causal Learning*; submitted.
+Kim Hammar and Rolf Stadler
+[arXiv(preprint)](https://arxiv.org/abs/2509.02130)
+[bib](/assets/citations/2025/online_identification.bib)
 
-### Conferences
+[TIFS] *Adaptive Network Security Policies via Belief Aggregation and Rollout*; TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
+Kim Hammar, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/11592598)
+[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
+[bib](/assets/citations/2025/tifs.bib)
 
-2026
-:   **Multiagent Incident Response Planning with Code Models**; Conference paper, Conference on Game Theory and AI for Security (GameSec), Ann Harbor, Michigan, USA, October 26th-28th 2026.
-     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu.
-     To appear
+[Submitted] *Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems*; submitted.
+Yuchao Li, Kim Hammar, and Dimitri Bertsekas
+[arXiv(preprint)](https://arxiv.org/abs/2507.04646)
+[bib](/assets/citations/2025/feature_based_belief_aggregation.bib)
 
-2026
-:   **Optimal Stopping of Self-Refining Foundation Models**; Conference paper, 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
-     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu.
-     To appear
+[TIFS] *Adaptive Security Response Strategies through Conjectural Online Learning*; TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).
+Kim Hammar, Tao Li, Rolf Stadler, and Quanyan Zhu
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10955193)
+[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
+[bib](/assets/citations/2025/tifs_2.bib)
 
-2026
-:   **CSLE: A Reinforcement Learning Platform for Autonomous Security Management**; Conference paper, Ninth Annual Conference on Machine Learning and Systems (MLSys 2026) 2026, Bellevue, WA, USA, May 18th-22nd 2026.
-     **Kim Hammar**
-     [proceedings](https://proceedings.mlsys.org/paper_files/paper/2026/file/87eaaa8605a1a472d9a9756e7500517b-Paper-Conference.pdf)                    
-     [presentation](https://mlsys.org/virtual/2026/oral/3812)
-     [arXiv(preprint)](https://arxiv.org/abs/2604.15590)     
-     [bib](/assets/citations/mlsys_26_csle.bib)
+[AiSec] *Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization*; ACM CCS AiSec 2025: 18 th ACM Workshop on Artificial Intelligence and Security, Taipei, Taiwan, Oct 17.
+Kim Hammar and Tao Li
+[ACM Proceedings](https://dl.acm.org/doi/10.1145/3733799.3762965)
+[arXiv(preprint)](https://arxiv.org/pdf/2508.14385)
+[Poster](/assets/papers/2025/aisec_poster.pdf)
+[bib](/assets/citations/2025/aisec.bib)
 
+### 2024
 
-2026
-:   **In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**; Conference paper, AAAI summer symposium 2026, Seoul, South Korea, June 22-24 2026.
-     Yiran Gao, **Kim Hammar**, and Tao Li
-     [AAAI proceedings](https://ojs.aaai.org/index.php/AAAI-SS/article/view/42938)     
-     [arXiv(preprint)](https://arxiv.org/pdf/2602.13156)
-     [bib](/assets/citations/aaai_26_summer_symposium_gao.bib)
+[Submitted] *Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search*; submitted.
+Kim Hammar, Neil Dhir, and Rolf Stadler
+[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
+[bib](/assets/citations/2024/optimal_defender_strategies.bib)
 
-2026
-:   **Hallucination-Resistant Security Planning with a Large Language Model**; Conference paper, IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
-     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
-     [arXiv(preprint)](https://www.arxiv.org/abs/2602.05279)
-     [bib](/assets/citations/noms_26_llm_security_hammar.bib) 
+[GameSec] *Intrusion Tolerance as a Two-Level Game*; GameSec 2024: International Conference on Decision and Game Theory for Security, New York, USA, Oct 16-18.
+Kim Hammar and Rolf Stadler
+[Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-031-74835-6_1)
+[bib](/assets/citations/2024/gamesec.bib)
 
-2026
-:   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**; Conference paper, Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
-     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
-	[proceedings](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/)          
-	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
-        [NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)               	
-	[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
-	[bib](/assets/citations/llm_response_25_hammar.bib)
+[CDC] *Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games*; 63rd IEEE Conference on Decision and Control (CDC'24), Milan, Italy, December 16-19, 2024.
+Tao Li, Kim Hammar, Rolf Stadler, and Quanyan Zhu
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10886479)
+[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
+[bib](/assets/citations/2024/cdc.bib)
 
-2026
-:   **Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees**; Conference paper, 40th AAAI Conference on Artificial Intelligence 2026, Singapore, January 20-27 2026.
-     **Kim Hammar** and Tansu Alpcan
-     [AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/38750)
-     [AAAI Video](https://ojs.aaai.org/index.php/AAAI/article/view/38750/49333)               
-     [Poster](/assets/aaai26_poster_hammar_alpcan.pdf)
-     [bib](/assets/citations/aaai_26_hammar_alpcan.bib)
+[DSN] *Intrusion Tolerance for Networked Systems through Two-Level Feedback Control*; 54th IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27, 2024.
+Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10647020)
+[arXiv(preprint)](https://arxiv.org/abs/2404.01741)
+[bib](/assets/citations/2024/dsn.bib)
 
-2025
-:   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; Conference paper, ACM CCS AiSec 2025: 18 th ACM Workshop on Artificial Intelligence and Security, Taipei, Taiwan, Oct 17.
-    **Kim Hammar** and Tao Li
-    [ACM Proceedings](https://dl.acm.org/doi/10.1145/3733799.3762965)    
-    [arXiv(preprint)](https://arxiv.org/pdf/2508.14385)
-    [bib](/assets/citations/aisec25.bib)
+[NOMS] *Online Policy Adaptation for Networked Systems using Rollout*; NOMS 2024: IEEE/IFIP Network Operations and Management Symposium, Seoul, South Korea May 6-10.
+Forough Shahab Samani, Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10575707)
+[PDF](/assets/papers/2024/noms.pdf)
+[bib](/assets/citations/2024/noms.bib)
 
-2024
-:   **Intrusion Tolerance as a Two-Level Game**; Conference paper, GameSec 2024: International Conference on Decision and Game Theory for Security, New York, USA, Oct 16-18.
-    **Kim Hammar** and Rolf Stadler
-	[Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-031-74835-6_1)
-    [bib](/assets/citations/hammar_stadler_gamesec24.bib)
+[Poster] *Intrusion Tolerance for Networked Systems through Two-Level Feedback Control*; IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2024/dsn_poster.pdf)
 
-2024
-:   **Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**; Conference paper, 63rd IEEE Conference on Decision and Control (CDC'24), Milan, Italy, December 16-19, 2024.
-     Tao Li, **Kim Hammar**, Rolf Stadler, and Quanyan Zhu
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10886479)
-	[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
-	[bib](/assets/citations/tao_cdc_24.bib)
+[Poster] *Intrusion Tolerance for Networked Systems through Two-Level Feedback Control*; CDIS spring conference 2024, Stockholm, Sweden May 22.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2024/cdis_poster.pdf)
 
-2024
-:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Conference paper, 54th IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27, 2024.
-    **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10647020)
-	[arXiv(preprint)](https://arxiv.org/abs/2404.01741)
-    [bib](/assets/citations/dsn24_hammar_stadler.bib)
+[PhD thesis] *Optimal Security Response to Network Intrusions in IT Systems*; Doctoral thesis in electrical engineering, KTH, School of Electrical Engineering and Computer Science (EECS).
+Kim Hammar
+[Latest Version](https://arxiv.org/abs/2502.02541)
+[Link](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+[PDF](/assets/papers/2024/phd_thesis.pdf)
+[bib](/assets/citations/2024/phd_thesis.bib)
+[ai_generated_summary](/assets/audio/ai_thesis_summary.wav)
 
-2024
-:   **Online Policy Adaptation for Networked Systems using Rollout**; Conference paper, NOMS 2024: IEEE/IFIP Network Operations and Management Symposium, Seoul, South Korea May 6-10.
-    Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10575707)
-    [PDF](/assets/papers/NOMS24_Shahab_Hammar_Stadler.pdf)
-	[bib](/assets/citations/noms24_shahab_hammar_stadler.bib)
+### 2023
 
-2023
-:   **Scalable Learning of Intrusion Responses through Recursive Decomposition**; Conference paper, GameSec 2023: International Conference on Decision and Game Theory for Security, Avignon, France, Oct 18-20.
-    **Kim Hammar** and Rolf Stadler
-	[Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9)
-	[arXiv(preprint)](https://arxiv.org/abs/2309.03292)
-    [bib](/assets/citations/hammar_stadler_gamesec23.bib)
+[TNSM] *Learning Near-Optimal Intrusion Responses Against Dynamic Attackers*; TNSM 2023: IEEE Transactions on Network and Service Management (IEEE TNSM).
+Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10175554)
+[arXiv(preprint)](https://arxiv.org/abs/2301.06085)
+[PDF(preprint)](/assets/papers/2023/tnsm_preprint.pdf)
+[bib](/assets/citations/2023/tnsm.bib)
 
-2023
-:   **Digital Twins for Security Automation**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
-    **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154288)
-	[PDF(preprint)](/assets/papers/NOMS23_DigitalTwins_Hammar_Stadler.pdf)
-	[bib](/assets/citations/noms_23_hammar_stadler.bib)
+[GameSec] *Scalable Learning of Intrusion Responses through Recursive Decomposition*; GameSec 2023: International Conference on Decision and Game Theory for Security, Avignon, France, Oct 18-20.
+Kim Hammar and Rolf Stadler
+[Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9)
+[arXiv(preprint)](https://arxiv.org/abs/2309.03292)
+[bib](/assets/citations/2023/gamesec.bib)
 
-2023
-:   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
-    Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154365)
-	[PDF(preprint)](/assets/papers/NOMS23_Demo_Shahab_Hammar_Stadler.pdf)
-	[bib](/assets/citations/noms_23_shahab_hammar_stadler.bib)
+[NOMS] *Digital Twins for Security Automation*; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
+Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154288)
+[PDF(preprint)](/assets/papers/2023/noms_digital_twins_preprint.pdf)
+[bib](/assets/citations/2023/noms.bib)
 
-2022
-:   **An Online Framework for Adapting Security Policies in Dynamic IT Environments**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
-    **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9964838)
-	[IFIP Open Library Conference Proceedings](https://dl.ifip.org/db/conf/cnsm/cnsm2022/)
-	[IFIP Open Library PDF](https://dl.ifip.org/db/conf/cnsm/cnsm2022/58.pdf)
-	[PDF(preprint)](/assets/papers/CNSM22_preprint_8_sep_Hammar_Stadler.pdf)
-	[bib](/assets/citations/cnsm_22_hammar_stadler.bib)
+[NOMS] *Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh*; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
+Forough Shahab Samani, Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154365)
+[PDF(preprint)](/assets/papers/2023/noms_demo_preprint.pdf)
+[bib](/assets/citations/2023/noms_2.bib)
 
-2022
-:   **Learning Security Strategies through Game Play and Optimal Stopping**; Conference paper, ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
-    **Kim Hammar** and Rolf Stadler
-	[PDF(extended version preprint)](/assets/papers/ml4cy_ext.pdf)
-	[Camera ready version](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
+[Technical report] *Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure*
+Kim Hammar and Neil Dhir
+[arXiv(preprint)](https://arxiv.org/abs/2309.02287)
+[bib](/assets/citations/2023/technical_report.bib)
 
+[Poster] *Learning Near-Optimal Intrusion Responses Against Dynamic Attackers*; CDIS spring conference 2023, Stockholm, Sweden May 25.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2023/cdis_poster.pdf)
 
-2022
-:   **A System for Interactive Examination of Learned Security Policies**; <span style="color:red">(Best demonstration paper award)</span>; [Diploma](/assets/awards/NOMS_2022_Best_Demo_Award.pdf); Conference paper, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium, Budapest, Hungary April 25-29.
-    **Kim Hammar** and Rolf Stadler
-	[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
-    [IEEE Proceedings](https://ieeexplore.ieee.org/document/9789707)
-	[PDF(preprint)](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
-	[arXiv(preprint)](https://arxiv.org/abs/2204.01126)
-	[bib](/assets/citations/hammar_stadler_noms_22_demo)
+[Poster] *Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh*; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
+Forough Shahab Samani, Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2023/noms_poster.pdf)
 
-2021
-:   **Learning Intrusion Prevention Policies through Optimal Stopping**; Conference paper, CNSM 2021: International Conference on Network and Service Management, Izmir, Turkey October 25-29.
-    **Kim Hammar** and Rolf Stadler
-	[IFIP Open Library Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
-	[IFIP Open Library PDF](http://dl.ifip.org/db/conf/cnsm/cnsm2021/1570732932.pdf)
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9615542)
-	[PDF](/assets/papers/cnsm_21_Hammar_Stadler.pdf)
-	[arXiv(preprint)](https://arxiv.org/pdf/2106.07160.pdf)
-	[PDF(preprint)](/assets/papers/preprint_cnsm_21_hammar_stadler.pdf)
-	[bib](/assets/citations/cnsm_21_proceedings.bib)
+### 2022
 
-2020
-:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Conference paper, CNSM 2020: International Conference on Network and Service Management, Izmir, Turkey November 2-6.
-    **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9269092)
-	[IFIP Open Library Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2020/index.html)
-	[arXiv(preprint)](https://arxiv.org/abs/2009.08120)
-	[PDF(preprint)](/assets/papers/cnsm_20_Hammar_Stadler.pdf)
-	[bib](/assets/citations/cnsm_2020_hammar_stadler.bib)
+[TNSM] *Intrusion Prevention through Optimal Stopping*; TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
+Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/9779345)
+[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
+[PDF(preprint)](/assets/papers/2022/tnsm_preprint.pdf)
+[bib](/assets/citations/2022/tnsm.bib)
 
-2019
-:   **TALS: A Framework For Text Analysis, Fine-Grained Annotation, Localisation and Semantic Segmentation**; Conference paper, COMPSAC 2019: Data Driven Intelligence for a Smarter World Hosted by Marquette University, Milwaukee, Wisconsin, USA July 15-19.
-    Shatha Jaradat, Nima Dokoohaki, Ummal Wara, Mallu Goswami, **Kim Hammar** and
+[CNSM] *An Online Framework for Adapting Security Policies in Dynamic IT Environments*; CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
+Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/9964838)
+[IFIP Open Library Conference Proceedings](https://dl.ifip.org/db/conf/cnsm/cnsm2022/)
+[IFIP Open Library PDF](https://dl.ifip.org/db/conf/cnsm/cnsm2022/58.pdf)
+[PDF(preprint)](/assets/papers/2022/cnsm_preprint.pdf)
+[bib](/assets/citations/2022/cnsm.bib)
+
+[ICML] *Learning Security Strategies through Game Play and Optimal Stopping*; ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
+Kim Hammar and Rolf Stadler
+[PDF(extended version preprint)](/assets/papers/2022/icml_extended.pdf)
+[Camera ready version](/assets/papers/2022/icml.pdf)
+
+[NOMS] *A System for Interactive Examination of Learned Security Policies*; <span style="color:red">(Best demonstration paper award)</span>; [Diploma](/assets/awards/NOMS_2022_Best_Demo_Award.pdf); NOMS 2022: IEEE/IFIP Network Operations and Management Symposium, Budapest, Hungary April 25-29.
+Kim Hammar and Rolf Stadler
+[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/9789707)
+[PDF(preprint)](/assets/papers/2022/noms_preprint.pdf)
+[arXiv(preprint)](https://arxiv.org/abs/2204.01126)
+[bib](/assets/citations/2022/noms.bib)
+
+[ICML] *Learning Security Strategies through Game Play and Optimal Stopping*; ML4Cyber workshop ICML 2022, Baltimore USA, July 17-23.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2022/icml.pdf)
+
+[Poster] *Intrusion Prevention through Optimal Stopping*; KTH EECS Summer Conference 8 June 2022.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2022/eecs_poster.pdf)
+
+[Poster] *Intrusion Prevention through Optimal Stopping*; CDIS Spring Conference 24 May 2022.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2022/cdis_poster.pdf)
+
+[Poster] *Intrusion Prevention through Optimal Stopping*; Digital Futures Machine Learning Day 17 Jan 2022.
+Kim Hammar and Rolf Stadler
+[PDF](/assets/papers/2022/digital_futures_poster.pdf)
+
+### 2021
+
+[CNSM] *Learning Intrusion Prevention Policies through Optimal Stopping*; CNSM 2021: International Conference on Network and Service Management, Izmir, Turkey October 25-29.
+Kim Hammar and Rolf Stadler
+[IFIP Open Library Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
+[IFIP Open Library PDF](http://dl.ifip.org/db/conf/cnsm/cnsm2021/1570732932.pdf)
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/9615542)
+[PDF](/assets/papers/2021/cnsm.pdf)
+[arXiv(preprint)](https://arxiv.org/pdf/2106.07160.pdf)
+[PDF(preprint)](/assets/papers/2021/cnsm_preprint.pdf)
+[bib](/assets/citations/2021/cnsm.bib)
+
+[Poster] *Learning Intrusion Prevention Policies through Optimal Stopping*; CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School 2021.
+Kim Hammar and Rolf Stadler
+[PDF](https://kim-hammar.com/assets/papers/2021/dlrl_poster.pdf)
+
+[Report] *An RCE Exploit of a Remote SLD Resolver in Prolog*; 18 June 2021.
+Kim Hammar
+[PDF](/assets/papers/2021/rce_exploit_report.pdf)
+
+### 2020
+
+[Web Intelligence] *Deep text classification of Instagram data using word embeddings and weak supervision*; Web Intelligence 2020.
+Kim Hammar, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
+[Link](https://content.iospress.com/articles/web-intelligence/web200428)
+[PDF](/assets/papers/2020/web_intelligence.pdf)
+[bib](/assets/citations/2020/web_intelligence.bib)
+
+[CNSM] *Finding Effective Security Strategies through Reinforcement Learning and Self-Play*; CNSM 2020: International Conference on Network and Service Management, Izmir, Turkey November 2-6.
+Kim Hammar and Rolf Stadler
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/9269092)
+[IFIP Open Library Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2020/index.html)
+[arXiv(preprint)](https://arxiv.org/abs/2009.08120)
+[PDF(preprint)](/assets/papers/2020/cnsm_preprint.pdf)
+[bib](/assets/citations/2020/cnsm.bib)
+
+[Report] *Using Reinforcement Learning in Self-Driving Systems*; 28 May 2020. A PoC.
+Forough Shahab and Kim Hammar
+[PDF](/assets/papers/2020/self_driving_report.pdf)
+
+### 2019
+
+[COMPSAC] *TALS: A Framework For Text Analysis, Fine-Grained Annotation, Localisation and Semantic Segmentation*; COMPSAC 2019: Data Driven Intelligence for a Smarter World Hosted by Marquette University, Milwaukee, Wisconsin, USA July 15-19.
+Shatha Jaradat, Nima Dokoohaki, Ummal Wara, Mallu Goswami, Kim Hammar and
 Mihhail Matskin
-	[Link](https://ieeexplore.ieee.org/document/8754470)
-	[bib](/assets/citations/tals.bib)
+[Link](https://ieeexplore.ieee.org/document/8754470)
+[bib](/assets/citations/2019/compsac.bib)
 
-2019
-:   **Horizontally Scalable ML Pipelines with a Feature Store**; Conference paper, Demo track, SysML Conference, March 31 - April 2 2019, Stanford CA.
-    Alexandru A. Ormenisan, Mahmoud Ismail, **Kim Hammar**, Robin Andersson, Ermias Gebremeskel, Theofilos Kakantousis, Antonios Kouzoupis, Fabio Buso, Gautier Berthou, Jim Dowling and Seif Haridi.
-	[Link](https://www.sysml.cc/doc/2019/demo_7.pdf)
-	[PDF](/assets/papers/sysml_featurestore.pdf)
+[MLSys] *Horizontally Scalable ML Pipelines with a Feature Store*; Demo track, MLSys Conference, March 31 - April 2 2019, Stanford CA.
+Alexandru A. Ormenisan, Mahmoud Ismail, Kim Hammar, Robin Andersson, Ermias Gebremeskel, Theofilos Kakantousis, Antonios Kouzoupis, Fabio Buso, Gautier Berthou, Jim Dowling and Seif Haridi.
+[Link](https://www.sysml.cc/doc/2019/demo_7.pdf)
+[PDF](/assets/papers/2019/mlsys.pdf)
 
+[Blog post] *Guide to File Formats for Machine Learning: Columnar, Training, and Inferencing*; 25 Oct 2019.
+Jim Dowling, Moritz Meister, and Kim Hammar
+[Link](https://www.logicalclocks.com/blog/guide-to-file-formats-for-machine-learning-with-feature-store)
 
-2018
-:   **Dynamic CNN Models For Fashion Recommendation in Instagram**; Conference Paper, International Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
-	Shatha Jaradat, Nima Dokoohaki, **Kim Hammar**, Ummul Wara and Mihhail Matskin
-	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1319767&dswid=2781)
-    [bib](/assets/citations/dynamic_cnn.bib)
+### 2018
 
-2018
-:   **Deep Text Mining of Instagram Data Without Strong Supervision**; Conference Paper, Web Intelligence Conference 2018, Santiago Chile.
-    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
-	[Link](https://ieeexplore.ieee.org/document/8609589)
-	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
-	[ArXiv](https://arxiv.org/abs/1909.10812)
-    [bib](/assets/citations/text_mining.bib)
+[SocialCom] *Dynamic CNN Models For Fashion Recommendation in Instagram*; International Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
+Shatha Jaradat, Nima Dokoohaki, Kim Hammar, Ummul Wara and Mihhail Matskin
+[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1319767&dswid=2781)
+[bib](/assets/citations/2018/socialcom.bib)
 
+[Web Intelligence] *Deep Text Mining of Instagram Data Without Strong Supervision*; Web Intelligence Conference 2018, Santiago Chile.
+Kim Hammar, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
+[Link](https://ieeexplore.ieee.org/document/8609589)
+[PDF](/assets/papers/2018/web_intelligence.pdf)
+[ArXiv](https://arxiv.org/abs/1909.10812)
+[bib](/assets/citations/2018/web_intelligence.bib)
 
-### Workshops
+[Blog post] *Feature Store: the missing data layer in ML pipelines?*; 30 Dec 2018.
+Kim Hammar and Jim Dowling
+[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
+[bib](/assets/citations/2018/blog_post.bib)
 
-2022
-:   **Learning Security Strategies through Game Play and Optimal Stopping**; Workshop paper, ML4Cyber workshop ICML 2022, Baltimore USA, July 17-23.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
+[Blog post] *Goodbye Horovod, Hello CollectiveAllReduce*; 22 Oct 2018.
+Robin Andersson, Jim Dowling, Ermias Gebremeskel and Kim Hammar
+[Link](https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce)
 
+[MSc thesis] *Deep Text Mining of Instagram Data Without Strong Supervision*; Master's Thesis, KTH School of Information and Communication Technology (ICT).
+Kim Hammar
+[Link](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=sv&pid=diva2%3A1222945&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-989)
+[PDF](/assets/papers/2018/msc_thesis.pdf)
+[bib](/assets/citations/2018/msc_thesis.bib)
 
-### Technical reports
+[Tutorial] *Programming the Semantic Web*; 12 Jan 2018. A Tutorial.
+Kim Hammar
+[PDF](/assets/papers/2018/semweb_tutorial.pdf)
 
-2023
-:   **Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure**;
-    **Kim Hammar** and Neil Dhir
-	[arXiv(preprint)](https://arxiv.org/abs/2309.02287)
-	[bib](/assets/citations/causal_stopping.bib)
+### 2017
 
+[Course project] *Distributed Human Activity Recognition*; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Best project award, awarded a graphics card) </span>;
+Kim Hammar and Konstantin Sozinov
+[Link](https://github.com/Kim-Hammar/Distributed_ML)
 
-### Posters
+[Report] *Machine Learning for Failure Detection in Distributed Systems*; 23 Nov 2017. A project report.
+Kim Hammar and Konstantin Sozinov
+[PDF](/assets/papers/2017/mlfd_report.pdf)
 
-2025
-:   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; ACM CCS AiSec 2025, Taipei, Taiwain, Oct 17.
-    **Kim Hammar** and Tao Li
-	[PDF](/assets/papers/ccs_aisec_poster_hammar_li_25.pdf)
+[Report] *Conflict free p2p replicated datatypes*; 22 May 2017. A project report.
+Kim Hammar and Maxime Dufour
+[PDF](/assets/papers/2017/crdt_report.pdf)
 
-2024
-:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/kim_dsn_24_poster.pdf)
+[Report] *Linearizable Key-Value Store*; 12 Mar 2017. A project report.
+Kim Hammar and Konstantin Sozinov
+[PDF](/assets/papers/2017/kv_store_report.pdf)
 
-2024
-:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; CDIS pring conference 2024, Stockholm, Sweden May 22.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/CDIS_conf_24_hammar_stadler_poster.pdf)
+### 2016
 
-2023
-:   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; CDIS pring conference 2023, Stockholm, Sweden May 25.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/CDIS_conf_23_Hammar_Stadler_poster_12_may.pdf)
-
-2023
-:   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
-    Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/NOMS23_poster_Shahab_Hammar_Stadler.pdf)
-
-2022
-:   **Intrusion Prevention through Optimal Stopping**; Poster, KTH EECS Summer Conference 8 June 2022.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/poster_eecs_summer_event_8_june_hammar_stadler.pdf)
-
-2022
-:   **Intrusion Prevention through Optimal Stopping**; Poster, CDIS Spring Conference 24 May 2022.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/CDIS_Conference_Poster_24_May_Hammar_Stadler.pdf)
-
-
-2022
-:   **Intrusion Prevention through Optimal Stopping**; Poster, Digital Futures Machine Learning Day 17 Jan 2022.
-    **Kim Hammar** and Rolf Stadler
-	[PDF](/assets/papers/ML_Day_KTH_Poster_17_Jan_2022_Hammar_Stadler.pdf)
-
-
-2021
-:   **Learning Intrusion Prevention Policies through Optimal Stopping**; Poster, CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School 2021.
-    **Kim Hammar** and Rolf Stadler
-    [PDF](https://kim-hammar.com/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
-
-
-### External Blog Posts
-
-2019
-:   **Guide to File Formats for Machine Learning: Columnar, Training, and Inferencing**; Blog post, 25 Oct 2019.
-	Jim Dowling, Moritz Meister, and **Kim Hammar**
-	[Link](https://www.logicalclocks.com/blog/guide-to-file-formats-for-machine-learning-with-feature-store)
-
-2018
-:   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
-	**Kim Hammar** and Jim Dowling
-	[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
-    [bib](/assets/citations/feature_store_v1.bib)
-
-2018
-:   **Goodbye Horovod, Hello CollectiveAllReduce**; Blog post, 22 Oct 2018.
-	Robin Andersson, Jim Dowling, Ermias Gebremeskel and **Kim Hammar**
-	[Link](https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce)
-
-
-### Theses
-
-2024
-:   **Optimal Security Response to Network Intrusions in IT Systems**; Doctoral thesis in electrical engineering, KTH, School of Electrical Engineering and Computer Science (EECS).
-	**Kim Hammar**
-	[Latest Version](https://arxiv.org/abs/2502.02541)
-	[Link](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
-	[PDF](/assets/papers/Kim_Hammar_PHD_Thesis.pdf)
-    [bib](/assets/citations/kim_phd_thesis.bib)
-	[ai_generated_summary](/assets/ai_thesis_summary.wav)
-
-2018
-:   **Deep Text Mining of Instagram Data Without Strong Supervision**; Master's Thesis, KTH School of Information and Communication Technology (ICT).
-	**Kim Hammar**
-	[Link](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=sv&pid=diva2%3A1222945&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-989)
-	[PDF](/assets/papers/master_thesis.pdf)
-    [bib](/assets/citations/kim_msc_thesis.bib)
-
-2016
-:   **Integrating Monitoring Systems - Pre-Study**; Bachelor's Thesis, KTH School of Information and Communication Technology (ICT).
-	**Kim Hammar** and Marcus Blom
-	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A955069&dswid=7067)
-	[PDF](/assets/papers/bachelor_thesis.pdf)
-    [bib](/assets/citations/kim_bsc_thesis.bib)
-
-
-### Other
-
-2021
-:   **An RCE Exploit of a Remote SLD Resolver in Prolog**; 18 June 2021.
-	**Kim Hammar**
-	[PDF](/assets/papers/ExploitDemoReport_FEP3370_KimHammar.pdf)
-
-2020
-:   **Using Reinforcement Learning in Self-Driving Systems**; 28 May 2020. A PoC.
-	Forough Shahab and **Kim Hammar**
-	[PDF](/assets/papers/self_driving_systems_poc.pdf)
-
-2018
-:   **Programming the Semantic Web**; 12 Jan 2018. A Tutorial.
-	**Kim Hammar**
-	[PDF](/assets/papers/programming_semweb.pdf)
-
-2017
-:   **Distributed Human Activity Recognition**; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Best project award, awarded a graphics card) </span>;
-	**Kim Hammar** and Konstantin Sozinov
-	[Link](https://github.com/Kim-Hammar/Distributed_ML)
-
-2017
-:   **Machine Learning for Failure Detection in Distributed Systems**; 23 Nov 2017. A project report.
-	**Kim Hammar** and Konstantin Sozinov
-	[PDF](/assets/papers/mlfd.pdf)
-
-2017
-:   **Conflict free p2p replicated datatypes**; 22 May 2017. A project report.
-	**Kim Hammar** and Maxime Dufour
-	[PDF](/assets/papers/p2p_crdt_logoot.pdf)
-
-
-2017
-:   **Linearizable Key-Value Store**; 12 Mar 2017. A project report.
-	**Kim Hammar** and Konstantin Sozinov
-	[PDF](/assets/papers/lin_key_value.pdf)
+[BSc thesis] *Integrating Monitoring Systems - Pre-Study*; Bachelor's Thesis, KTH School of Information and Communication Technology (ICT).
+Kim Hammar and Marcus Blom
+[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A955069&dswid=7067)
+[PDF](/assets/papers/2016/bsc_thesis.pdf)
+[bib](/assets/citations/2016/bsc_thesis.bib)

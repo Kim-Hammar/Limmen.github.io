@@ -1,32 +1,31 @@
 ---
 layout: default
+title: Kim Hammar
 ---
 
-<section>
-   <h3 class="code">Blog Posts</h2>
+<div id="toptitle">
+	<h1>Kim Hammar</h1>
+</div>
 
-	{% for post in site.posts %}
-		{% unless post.next %}
-			<h4 class="code">{{ post.date | date: '%Y' }}</h3>
-		{% else %}
-			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-			{% if year != nyear %}
-				<h4 class="code">{{ post.date | date: '%Y' }}</h3>
-			{% endif %}
-		{% endunless %}
+<div class="profile">
+	<img class="profile-photo" src="{{ site.logo_url }}" alt="Kim Hammar">
+	<div class="profile-details">
+		<p><b>Postdoctoral Researcher</b><br>
+		Imperial College London</p>
+		<p>Email: kimham[at]kth.se</p>
+		<p><a href="https://scholar.google.se/citations?user=46dMOZgAAAAJ&hl=sv">Google Scholar</a> &middot;
+		<a href="https://github.com/Kim-Hammar">GitHub</a> &middot;
+		<a href="https://orcid.org/0000-0003-1773-8354">ORCID</a> &middot;
+		<a href="https://www.kth.se/profile/kimham/">KTH profile</a> &middot;
+		<a href="https://www.researchgate.net/profile/Kim-Hammar">ResearchGate</a></p>
+	</div>
+</div>
 
-		<ul>
-			<li>
-				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }}</span>
-				</div>
-				<div class="title">
-					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-				</div>
-			</li>
-		</ul>
+<h2>About</h2>
 
-	{% endfor %}
+<p>
+	I am a postdoctoral researcher at Imperial College London.
+	My main research interest is automatic control and management of networked systems.
+</p>
 
-</section>
+See the <a href="{{ "/about" | prepend: site.baseurl | prepend: site.url }}">About</a> page for a full biography.</p>

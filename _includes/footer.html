@@ -1,36 +1,44 @@
-<div class="footer">
-  <span class="block">&copy; 2019&mdash;{{ site.time | date: '%Y' }} <a href="https://twitter.com/KimHammar1">{{ site.author_name }}</a> <br> kimham[at]kth.se </span><br><a href="https://www.kth.se/profile/kimham/">www.kth.se/profile/kimham/</a>
-<br><a href="https://orcid.org/0000-0003-1773-8354">ORCID: 0000-0003-1773-8354</a>
-  <div class="sharebuttons">
-    <ul>
-      <li class="twitter">
-	<a href="https://twitter.com/KimHammar1" target="_blank">
-	  {% include twitter.svg %}
-	</a>
-      </li>
-
-      <li class="linkedin">
-	<a href="https://www.linkedin.com/in/kim-hammar-9963aba6/" target="_blank">
-	  {% include linkedin.svg %}
-	</a>
-      </li>
-
-      <li class="github">
-	<a href="https://github.com/Kim-Hammar" target="_blank">
-	  {% include github.svg %}
-	</a>
-      </li>
-
-      <li class="stackoverflow">
-	<a href="https://stackoverflow.com/users/4180392/limmen" target="_blank">
-	  {% include stackoverflow.svg %}
-	</a>
-      </li>
-      <li class="stackoverflow">
-	<a href="https://scholar.google.se/citations?user=46dMOZgAAAAJ&hl=sv" target="_blank">
-	  {% include scholar.svg %}
-	</a>
-      </li>
-    </ul>
+<div id="footer">
+  <div id="footer-text">
+    &copy; 2019&mdash;{{ site.time | date: '%Y' }} {{ site.author_name }} &middot; kimham[at]kth.se &middot;
+    <a href="https://www.kth.se/profile/kimham/">KTH</a> &middot;
+    <a href="https://orcid.org/0000-0003-1773-8354">ORCID: 0000-0003-1773-8354</a>
   </div>
+  <ul class="footer-icons">
+    <li>
+      <a href="https://twitter.com/KimHammar1" target="_blank">
+	{% include twitter.svg %}
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/kim-hammar-9963aba6/" target="_blank">
+	{% include linkedin.svg %}
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Kim-Hammar" target="_blank">
+	{% include github.svg %}
+      </a>
+    </li>
+    <li>
+      <a href="https://stackoverflow.com/users/4180392/limmen" target="_blank">
+	{% include stackoverflow.svg %}
+      </a>
+    </li>
+    <li>
+      <a href="https://scholar.google.se/citations?user=46dMOZgAAAAJ&hl=sv" target="_blank">
+	{% include scholar.svg %}
+      </a>
+    </li>
+    <li>
+      <a href="https://www.youtube.com/@kimhammar" target="_blank">
+	{% include youtube.svg %}
+      </a>
+    </li>
+    <li>
+      <a href="https://www.kth.se/profile/kimham" target="_blank">
+	<img src="{{ "/assets/kth_logo.png" | prepend: site.baseurl | prepend: site.url }}" alt="KTH profile">
+      </a>
+    </li>
+  </ul>
 </div>

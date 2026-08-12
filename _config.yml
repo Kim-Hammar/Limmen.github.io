@@ -2,12 +2,12 @@
 title:              "kim-hammar.com"
 description:        "Personal Website"
 author_name:        "Kim Hammar" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/8254791?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           /assets/photos/profile.jpg
 github_username:    Kim-Hammar # Your GitHub username here
 
 # Site Settings
 url:                https://kim-hammar.com # main url
-baseurl:            /
+baseurl:            ""
 permalink:          /:title # Post permalink
 timezone:           Europe/Stockholm # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
@@ -19,6 +19,7 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
+    silence_deprecations: [ "import" ] # local Jekyll 4 preview only; ignored by the GitHub Pages build
 
 # Other Params
 include:            [ "robots.txt" ]

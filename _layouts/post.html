@@ -2,27 +2,21 @@
 layout: default
 ---
 
-<article>
+<div id="toptitle">
+	<h1>{{ page.title }}</h1>
+	<p class="post-meta"><time>{{ page.date | date: '%B %-d, %Y' }}</time></p>
+</div>
 
-	<div class="center">
-		<h1 class="title">{{ page.title }}</h1>
-		<time class="code">{{ page.date | date: '%B %-d, %Y' }}</time>
-	</div>
+{{ content }}
 
-	<div class="divider"></div>
-
-	{{ content }}
-
-</article>
-
-<div class="page-navigation code">
+<div class="page-navigation">
 	{% if page.next.url %}
-    <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
+		<a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&larr; newer</a>
 		<span> &middot; </span>
-  {% endif %}
-		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Index</a>
-  {% if page.previous.url %}
+	{% endif %}
+	<a class="home" href="{{ "/blog" | prepend: site.baseurl | prepend: site.url }}" title="Back to the blog index">Blog index</a>
+	{% if page.previous.url %}
 		<span> &middot; </span>
-    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
-  {% endif %}
+		<a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">older &rarr;</a>
+	{% endif %}
 </div>

@@ -52,3 +52,6 @@ Temporary Items
 .apdisk
 
 .idea
+# Local Jekyll preview (script/serve.sh)
+vendor/
+.bundle/

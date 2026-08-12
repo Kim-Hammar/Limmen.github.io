@@ -15,10 +15,9 @@
 	<link rel="stylesheet" href="{{ "/assets/core.css" | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-	<link rel="stylesheet" href="assets/main.css">
 
 	{% if site.mathjax %}
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
 	{% endif %}
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79781438-2"></script>
