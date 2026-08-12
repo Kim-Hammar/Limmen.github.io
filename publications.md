@@ -215,10 +215,6 @@ Kim Hammar and Rolf Stadler
 [arXiv(preprint)](https://arxiv.org/abs/2204.01126)
 [bib](/assets/citations/2022/noms.bib)
 
-[ICML] *Learning Security Strategies through Game Play and Optimal Stopping*; ML4Cyber workshop ICML 2022, Baltimore USA, July 17-23.
-Kim Hammar and Rolf Stadler
-[PDF](/assets/papers/2022/icml.pdf)
-
 [Poster] *Intrusion Prevention through Optimal Stopping*; KTH EECS Summer Conference 8 June 2022.
 Kim Hammar and Rolf Stadler
 [PDF](/assets/papers/2022/eecs_poster.pdf)

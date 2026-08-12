@@ -1,9 +1,0 @@
----
-title: A multiagent system for incident response planning
-updated: 2025-02-10 11:39
----
-
-Incident response has traditionally been carried out by security operators who follow predefined playbooks. Although such playbooks can be effective against known threats, they are becoming increasingly difficult to maintain amid the rapid discovery of new vulnerabilities and the development of new attack techniques. As a consequence, there is a growing need for new decision-support systems that can assist operators by automating parts of the response process. We address this need by developing a multiagent system that autonomously investigates security incidents and recommends optimized response actions. The system decomposes incident response into subtasks that are managed by a hierarchy of agents, each using a large language model to process logs, generate outputs, and invoke external tools. Central to our system is an agent that generates a code model of the response process, which serves as a simulation engine for efficient response planning. We establish a theoretical lower bound on the quality of the response plan produced by the system and validate it through extensive experiments. For a multistage attack executed on our testbed, the system significantly outperforms single-agent approaches in planning efficiency and precision.
-
-A video demonstration of the system is available [here](https://www.youtube.com/watch?v=YXYk_5GCqUI&).
-
