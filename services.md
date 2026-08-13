@@ -13,6 +13,12 @@ title: Services
 [Associate editor] IEEE Transactions on Network and Service Management.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)
 
+[Reviewer] Operations Research Forum.
+[link](https://link.springer.com/journal/43069)
+
+[Reviewer] Computers and Security.
+[link](https://www.sciencedirect.com/journal/computers-and-security)
+
 [Reviewer] IEEE Internet of Things Journal.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
 
