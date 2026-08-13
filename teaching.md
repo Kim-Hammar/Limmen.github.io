@@ -22,6 +22,7 @@ title: Teaching
 [Supervisor] Amanuens (main supervisor); Nils Forsgren, Software development for automated security, Autumn 2023-Summer 2024.
 
 [Supervisor] Master thesis (main supervisor); Bength Roland Pappila, Automated Profiling of Cyber Attacks Based on MITRE ATT&CK, Spring 2024.
+[DiVA](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1938354&dswid=2181),
 [PDF](/assets/papers/2024/msc_thesis_pappila.pdf).
 
 [Teaching assistant] EP1100 Data Communications and Computer Networks; assisting Prof. Gunnar Karlsson. KTH first cycle course.
