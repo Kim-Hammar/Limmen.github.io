@@ -171,7 +171,7 @@ Forough Shahab Samani, Kim Hammar and Rolf Stadler
 [bib](/assets/citations/2023/noms_2.bib)
 [Poster](/assets/papers/2023/noms_poster.pdf)
 
-[Technical report] *Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure*
+[Technical report] *Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure*; 2023.
 Kim Hammar and Neil Dhir
 [arXiv(preprint)](https://arxiv.org/abs/2309.02287)
 [bib](/assets/citations/2023/technical_report.bib)
@@ -197,7 +197,7 @@ Kim Hammar and Rolf Stadler
 [PDF(preprint)](/assets/papers/2022/cnsm_preprint.pdf)
 [bib](/assets/citations/2022/cnsm.bib)
 
-[ICML] *Learning Security Strategies through Game Play and Optimal Stopping*; ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
+[ICML] *Learning Security Strategies through Game Play and Optimal Stopping*; ICML ML4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
 Kim Hammar and Rolf Stadler
 [PDF(extended version preprint)](/assets/papers/2022/icml_extended.pdf)
 [Camera ready version](/assets/papers/2022/icml.pdf)
@@ -314,7 +314,7 @@ Kim Hammar
 
 ### 2017
 
-[Course project] *Distributed Human Activity Recognition*; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Best project award, awarded a graphics card) </span>;
+[Course project] *Distributed Human Activity Recognition*; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Best project award, awarded a graphics card)</span>.
 Kim Hammar and Konstantin Sozinov
 [Link](https://github.com/Kim-Hammar/Distributed_ML)
 

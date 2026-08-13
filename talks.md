@@ -74,7 +74,7 @@ title: Talks
 [Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-gamesec24/272500784)
 [PDF](/assets/slides/2024/gamesec.pdf)
 
-[DSN] Intrusion Tolerance for Networked Systems through Two-Level Feedback Control; DSN, Brisbane, Australia, June 27 2024
+[DSN] Intrusion Tolerance for Networked Systems through Two-Level Feedback Control; DSN, Brisbane, Australia, June 27 2024.
 [Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-for-networked-systems-through-two-level-feedback-control/269914107)
 [PDF](/assets/slides/2024/dsn.pdf)
 
@@ -94,46 +94,46 @@ title: Talks
 [Reading group] PID-Piper: Recovering Robotic Vehicles from Physical Attacks; Stockholm, KTH, ML+Security Reading Group NSE Apr 19 2024, Division of Network and Systems Engineering.
 [PDF](/assets/slides/2024/reading_group.pdf)
 
-[NSE seminar] Automated Security Response through Online Learning with Adaptive Conjectures; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, April 5 2024
+[NSE seminar] Automated Security Response through Online Learning with Adaptive Conjectures; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, April 5 2024.
 [Slides](https://www.slideshare.net/slideshow/automated-security-response-through-online-learning-with-adaptive-con-jectures/267113392)
 [PDF](/assets/slides/2024/nse_seminar.pdf)
 [Video](https://www.youtube.com/watch?v=K2JnC6z72fI)
 
-[Handelsbanken] Självlärande System för Cybersäkerhet; Besök av Handelsbanken, Stockholm, Sweden, Jan 11 2024
+[Handelsbanken] Självlärande System för Cybersäkerhet; Besök av Handelsbanken, Stockholm, Sweden, Jan 11 2024.
 [Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet-kth)
 [PDF](/assets/slides/2024/handelsbanken.pdf)
 
 ### 2023
 
-[Ericsson Research] Learning Automated Intrusion Response; Ericsson research, Stockholm, Sweden, Dec 8 2023
+[Ericsson Research] Learning Automated Intrusion Response; Ericsson research, Stockholm, Sweden, Dec 8 2023.
 [Slides](https://www.slideshare.net/KimHammar/learning-automated-intrusion-response)
 [PDF](/assets/slides/2023/ericsson_research.pdf)
 [Video](https://www.youtube.com/watch?v=_Y_1I_BEb58)
 
-[NSE seminar] Intrusion Tolerance for Networked Systems through Two-Level Feedback Control; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, Nov 10 2023
+[NSE seminar] Intrusion Tolerance for Networked Systems through Two-Level Feedback Control; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, Nov 10 2023.
 [Slides](https://www.slideshare.net/KimHammar/intrusion-tolerance-for-networked-systems-through-twolevel-feedback-control)
 [PDF](/assets/slides/2023/nse_seminar.pdf)
 
-[GameSec] Scalable Learning of Intrusion Response through Recursive Decomposition; GameSec, Avignon, France, Oct 18 2023
+[GameSec] Scalable Learning of Intrusion Response through Recursive Decomposition; GameSec, Avignon, France, Oct 18 2023.
 [Slides](https://www.slideshare.net/KimHammar/gamesec23-scalable-learning-of-intrusion-response-through-recursive-decomposition)
 [PDF](/assets/slides/2023/gamesec.pdf)
 
 [Reading group] 3D-IDS: Doubly Disentangled Dynamic Intrusion Detection; Stockholm, KTH, ML+Security Reading Group NSE Sep 22 2023, Division of Network and Systems Engineering.
 [PDF](/assets/slides/2023/reading_group.pdf)
 
-[MIT] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; MIT, Boston, USA, May 19 2023
+[MIT] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; MIT, Boston, USA, May 19 2023.
 [Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition-257924209)
 [PDF](/assets/slides/2023/mit.pdf)
 
-[Siemens Research] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; Siemens Research Princeton, USA, May 17 2023
+[Siemens Research] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; Siemens Research Princeton, USA, May 17 2023.
 [Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition)
 [PDF](/assets/slides/2023/princeton.pdf)
 
-[Princeton University] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; Princeton University, USA, May 17 2023
-[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition	)
+[Princeton University] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; Princeton University, USA, May 17 2023.
+[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition)
 [PDF](/assets/slides/2023/princeton.pdf)
 
-[NYU] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; New York University, USA, May 15 2023
+[NYU] Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition; New York University, USA, May 15 2023.
 [Slides](https://www.slideshare.net/KimHammar/learning-optimal-intrusion-responses-via-decomposition)
 [PDF](/assets/slides/2023/nyu.pdf)
 
@@ -153,7 +153,7 @@ title: Talks
 [Reading group] Optimal Patching in Clustered Malware Epidemics - Paper Review; Stockholm, KTH, ML+Security Reading Group NSE Feb 16 2023, Division of Network and Systems Engineering.
 [PDF](/assets/slides/2023/reading_group_2.pdf)
 
-[NYU] Intrusion Response through Optimal Stopping; New York, USA, invited talk, Quanyan Zhu's research group. 2023 30 January.
+[NYU] Intrusion Response through Optimal Stopping; New York, USA, invited talk, Quanyan Zhu's research group, Jan 30 2023.
 [Slides](https://www.slideshare.net/KimHammar/intrusion-response-through-optimal-stopping)
 [PDF](/assets/slides/2023/nyu_2.pdf)
 [Video](https://www.youtube.com/watch?v=Qzp_wiNW91o)
@@ -194,7 +194,7 @@ Kim Hammar and Rolf Stadler
 Kim Hammar and Rolf Stadler
 [Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
-[Alan Turing Institute] Intrusion Prevention through Optimal Stopping; London, UK, Alan Turing Institute, invited talk, Mar 25 2022
+[Alan Turing Institute] Intrusion Prevention through Optimal Stopping; London, UK, Alan Turing Institute, invited talk, Mar 25 2022.
 [Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251427388)
 [PDF](/assets/slides/2022/alan_turing_institute.pdf)
 

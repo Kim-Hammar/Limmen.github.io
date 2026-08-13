@@ -11,9 +11,9 @@ title: News
 
 [15 May] I was recognized as a "rising star" by the IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP)](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
 
-[9 May] Visiting Prof. Le Grand and Zequan Huang at [Paris 1 Panthéon-Sorbonne University](/assets/other/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University.") [Entree](/assets/other/AutorisationEntreeKimHammar.pdf "Entree")
+[9 May] Visiting Prof. Le Grand and Zequan Huang at Paris 1 Panthéon-Sorbonne University. The invitation is available [here](/assets/other/sorbonne_invitation_Hammar.pdf) and the entry authorization is available [here](/assets/other/AutorisationEntreeKimHammar.pdf).
 
-[1 May] A blogpost about our IEEE NOMS 2026 paper is available [here](https://co-r-e.com/method/hallucination-resistant-security-planning)
+[1 May] A blogpost about our IEEE NOMS 2026 paper is available [here](https://co-r-e.com/method/hallucination-resistant-security-planning).
 
 [20 Feb] Heading to San Diego to present [our paper](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/) at NDSS 2026.
 
@@ -23,7 +23,7 @@ title: News
 
 ### 2025
 
-[20 Oct] Visiting Asst. Prof Tao Li at the City University of Hong Kong. The [Talk details](/assets/slides/2025/cityu_talk_details.pdf)
+[20 Oct] Visiting Asst. Prof. Tao Li at the City University of Hong Kong. The talk details are available [here](/assets/slides/2025/cityu_talk_details.pdf).
 
 [17 Oct] Attending [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) in Taipei.
 
@@ -33,15 +33,15 @@ title: News
 
 [4 Sep] A preprint of our new paper on causal identification of IT systems is available [here](https://arxiv.org/abs/2509.02130).
 
-[21 Aug] A news article about our llm-based incident response system is available [here](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/). Podcasts about the system are available [here](https://www.youtube.com/watch?v=Y5E7CLGPENk) and [here](https://www.youtube.com/watch?v=sSxYLTg4pGg).
+[21 Aug] A news article about our LLM-based incident response system is available [here](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/).
 
 [16 Aug] Our conference paper "Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization" was accepted to [AiSec25](https://aisec.cc/). A preprint is available [here](https://arxiv.org/pdf/2508.14385).
 
-[9 July] A demo of our llm-based incident response system is available [here](https://www.youtube.com/watch?v=e7ckmv5p6cI)
+[9 July] A demo of our LLM-based incident response system is available [here](https://www.youtube.com/watch?v=e7ckmv5p6cI).
 
 [20 May] Moved to The University of Melbourne as a postdoctoral researcher (Dept. of Electrical and Electronic Engineering).
 
-[6 May] I am on the technical program committee for [GameSec 2025](https://www.gamesec-conf.org/tpc.php)
+[6 May] I am on the technical program committee for [GameSec 2025](https://www.gamesec-conf.org/tpc.php).
 
 [18 Mar] Moved to Arizona State University as a visiting scholar, hosted by Dr. Yuchao Li and Prof. Dimitri Bertsekas.
 
@@ -63,7 +63,7 @@ title: News
 
 [5 Aug] Our conference paper "Intrusion Tolerance as a Two-Level Game" was accepted to [GameSec24](https://www.gamesec-conf.org/). A preprint will be available soon.
 
-[25 Jul] Our conference paper "Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games" was accepted to [CDC24](https://cdc2024.ieeecss.org/). A preprint is [available](https://arxiv.org/pdf/2402.18781.pdf).
+[25 Jul] Our conference paper "Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games" was accepted to [CDC24](https://cdc2024.ieeecss.org/). A preprint is available [here](https://arxiv.org/pdf/2402.18781.pdf).
 
 [12 Jul] A [video](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4) of my presentation at the CDIS conference 2024 is available.
 
@@ -75,7 +75,7 @@ title: News
 
 [22 May] Gave a presentation at the [CDIS Spring Conference 2024](https://www.kth.se/en/cdis/event/konferens/cdis-spring-conference-2024-1.1334029).
 
-[20 May] A preprint of our [DSN24](https://dsn2024uq.github.io/index.html) paper is [available](https://arxiv.org/abs/2404.01741).
+[20 May] A preprint of our [DSN24](https://dsn2024uq.github.io/index.html) paper is available [here](https://arxiv.org/abs/2404.01741).
 
 [21 Mar] Our conference paper "Intrusion Tolerance for Networked Systems Through Two-Level Feedback Control" was accepted to [DSN24](https://dsn2024uq.github.io/index.html). A preprint will be available soon.
 
@@ -91,11 +91,11 @@ title: News
 
 [19 Dec] Dr. [Neil Dhir](https://neildhir.github.io/) from Siemens Research is visiting our lab at KTH.
 
-[28 Oct] Participating in the [IEEE Xtreme programming competition](https://ieeextreme.org/). [We ranked first among the teams from sweden](/assets/awards/ieee_xtreme_certificate_23.pdf).
+[28 Oct] Participating in the [IEEE Xtreme programming competition](https://ieeextreme.org/). We ranked first among the teams from Sweden ([certificate](/assets/awards/ieee_xtreme_certificate_23.pdf)).
 
 [18 Oct] Attending [GameSec23](https://www.gamesec-conf.org/registration.php) in Avignon.
 
-[28 Aug] Our system the "Cyber Security Learning Environment" (CSLE) is now available open source [here](https://github.com/Kim-Hammar).
+[28 Aug] Our system, the "Cyber Security Learning Environment" (CSLE), is now available as open source [here](https://github.com/Kim-Hammar).
 
 [26 Aug] Our conference paper "Scalable Learning of Intrusion Responses through Recursive Decomposition" was accepted to [GameSec23](https://www.gamesec-conf.org/registration.php). A preprint will be available soon.
 
@@ -115,7 +115,7 @@ title: News
 
 [8 May] Attending NOMS´23 in Miami, Florida.
 
-[5 May] Attending [Aurora23](https://www.forsvarsmakten.se/en/activities/exercises/aurora-23/)
+[5 May] Attending [Aurora23](https://www.forsvarsmakten.se/en/activities/exercises/aurora-23/).
 
 [29 Mar] Our demo paper "Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh" was accepted to NOMS´23.
 
@@ -123,7 +123,7 @@ title: News
 
 [22 Feb] We have a [summer internship](https://kth.varbi.com/se/what:job/jobID:597497/where:4/) opening in our group. Apply!
 
-[30 Jan] I gave a talk at [New York University](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), a recording is available [here](https://www.youtube.com/watch?v=Qzp_wiNW91o).
+[30 Jan] I gave a talk at [New York University](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs). A recording is available [here](https://www.youtube.com/watch?v=Qzp_wiNW91o).
 
 ### 2022
 
@@ -135,9 +135,9 @@ title: News
 
 [27 Aug] Our conference paper "An Online Framework for Adapting Security Policies in Dynamic IT Environments" was accepted to CNSM´22.
 
-[17 Jul] Attending ICML 22 in Baltimore. We will present our paper "Learning Security Strategies through Game Play and Optimal Stopping ([Camera ready version](/assets/papers/2022/icml.pdf)) on 22 July at the workshop on machine learning for cyber security ([workshop](https://sites.google.com/view/icml-ml4cyber/home)). A pre-recorded video of our presentation is [available](https://www.youtube.com/watch?v=Qz6huGXjhec).
+[17 Jul] Attending ICML 22 in Baltimore. We will present our paper "Learning Security Strategies through Game Play and Optimal Stopping" ([camera ready version](/assets/papers/2022/icml.pdf)) on 22 July at the [workshop on machine learning for cyber security](https://sites.google.com/view/icml-ml4cyber/home). A pre-recorded video of our presentation is available [here](https://www.youtube.com/watch?v=Qz6huGXjhec).
 
-[26 June] Our conference paper "Learning Security Strategies through Game Play and Optimal Stopping" was accepted to the [Machine learning for cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers), a preprint version is available [here](/assets/papers/2022/icml.pdf)
+[26 June] Our conference paper "Learning Security Strategies through Game Play and Optimal Stopping" was accepted to the [Machine learning for cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers). A preprint version is available [here](/assets/papers/2022/icml.pdf).
 
 [13 June] Our conference paper "A System for Interactive Examination of Learned Security Policies" is available in the NOMS´22 [proceedings](https://ieeexplore.ieee.org/document/9789707).
 
@@ -145,7 +145,7 @@ title: News
 
 [2 Jun] Jakob Stymne, master thesis student in our group, successfully defended his M.Sc., with thesis entitled ["Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies"](/assets/papers/2022/msc_thesis_stymne.pdf).
 
-[29 May] A preprint of our paper "Learning Security Strategies through Game Play and Optimal Stopping" is [available](https://arxiv.org/abs/2205.14694). To be submitted.
+[29 May] A preprint of our paper "Learning Security Strategies through Game Play and Optimal Stopping" is available [here](https://arxiv.org/abs/2205.14694).
 
 [24 May] We presented a poster at the CDIS spring conference at KTH.
 
@@ -153,19 +153,19 @@ title: News
 
 [30 Apr] Our demonstration at IEEE/IFIP Network Operations and Management Symposium was awarded the best demonstration [award](/assets/awards/NOMS_2022_Best_Demo_Award.pdf). A preprint is available [here](https://arxiv.org/abs/2204.01126) and a video of the demonstration is available [here](https://www.youtube.com/watch?v=18P7MjPKNDg).
 
-[14 Apr] A demonstration of our method for finding effective security strategies through reinforcement learning is [available](https://www.youtube.com/watch?v=18P7MjPKNDg).
+[14 Apr] A demonstration of our method for finding effective security strategies through reinforcement learning is available [here](https://www.youtube.com/watch?v=18P7MjPKNDg).
 
-[11 Mar] Our demo paper "A System for Interactive Examination of Learned Security Policies" was accepted to NOMS´22, a preprint is [available](/assets/papers/2022/noms_preprint.pdf).
+[11 Mar] Our demo paper "A System for Interactive Examination of Learned Security Policies" was accepted to NOMS´22. A preprint is available [here](/assets/papers/2022/noms_preprint.pdf).
 
 [17 Jan] We had a poster presentation at the Digital Futures Machine Learning day at KTH.
 
 ### 2021
 
-[30 Oct] Preprint of our journal paper "Intrusion Prevention through Optimal Stopping" is [available](https://arxiv.org/abs/2111.00289).
+[30 Oct] A preprint of our journal paper "Intrusion Prevention through Optimal Stopping" is available [here](https://arxiv.org/abs/2111.00289).
 
 [26 Oct] Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is available in the CNSM´21 [proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html).
 
-[21 Oct] Master thesis Bayesian Reinforcement Learning Methods for Network Intrusion Prevention by Antonio Frederico Nesti Lopes, available [here](/assets/papers/2021/msc_thesis_nesti_lopes.pdf).
+[21 Oct] The master thesis "Bayesian Reinforcement Learning Methods for Network Intrusion Prevention" by Antonio Frederico Nesti Lopes is available [here](/assets/papers/2021/msc_thesis_nesti_lopes.pdf).
 
 [15 Oct] Attended the CDIS Fall Research Workshop at Balingsholm and presented our research project. The slides are available [here](/assets/slides/2021/cdis.pdf).
 
@@ -173,19 +173,19 @@ title: News
 
 [23 July] Attending the [DLRL](https://dlrl.ca/) summer school and presenting a poster. Our poster is available [here](https://kim-hammar.com/assets/papers/2021/dlrl_poster.pdf).
 
-[16 July] Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21, a preprint is [available](https://arxiv.org/pdf/2106.07160.pdf).
+[16 July] Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21. A preprint is available [here](https://arxiv.org/pdf/2106.07160.pdf).
 
-[15 June] Preprint of our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is [available](https://arxiv.org/pdf/2106.07160.pdf).
+[15 June] A preprint of our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is available [here](https://arxiv.org/pdf/2106.07160.pdf).
 
-[24 Mar] Slides of our presentation at the CDIS spring conference is [available](https://kim-hammar.com/assets/slides/2021/cdis_3.pdf).
+[24 Mar] The slides of our presentation at the CDIS spring conference are available [here](https://kim-hammar.com/assets/slides/2021/cdis_3.pdf).
 
 ### 2020
 
-[14 Sep] Our CNSM´20 paper "Finding Effective Security Strategies through Reinforcement Learning and Self-Play" was accepted, a preprint is [available](https://arxiv.org/abs/2009.08120).
+[14 Sep] Our CNSM´20 paper "Finding Effective Security Strategies through Reinforcement Learning and Self-Play" was accepted. A preprint is available [here](https://arxiv.org/abs/2009.08120).
 
 [27 Feb] Our WEB´20 paper is now [available](https://content.iospress.com/articles/web-intelligence/web200428).
 
-[10 Feb] [Article](https://www.kth.se/aktuellt/nyheter/han-ar-med-och-bygger-sveriges-cyberforsvar-1.956832) on kth.se and [uochd.se](https://www.uochd.se/article/view/699759/cyberrymden_det_senaste_slagfaltet_inom_krigforing) about our research.
+[10 Feb] Articles about our research are available on [kth.se](https://www.kth.se/aktuellt/nyheter/han-ar-med-och-bygger-sveriges-cyberforsvar-1.956832) and [uochd.se](https://www.uochd.se/article/view/699759/cyberrymden_det_senaste_slagfaltet_inom_krigforing).
 
 ### 2019
 

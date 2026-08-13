@@ -34,7 +34,7 @@ title: Services
 [Technical program committee member] ACSAC 2026, Annual Computer Security Applications Conference.
 [link](https://www.acsac.org/)
 
-[Technical program committee member] GameSec 2026, Interational Conference on Game Theory and AI for Security.
+[Technical program committee member] GameSec 2026, International Conference on Game Theory and AI for Security.
 [link](https://www.gamesec-conf.org/organization.php)
 
 [Reviewer] ITU Journal on Future and Evolving Technologies (ITU J-FET).
@@ -57,7 +57,7 @@ title: Services
 [Associate editor] IEEE Transactions on Network and Service Management.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)
 
-[Technical program committee member] GameSec 2025, Interational Conference on Game Theory and AI for Security.
+[Technical program committee member] GameSec 2025, International Conference on Game Theory and AI for Security.
 [link](https://www.gamesec-conf.org/organization.php)
 
 [Reviewer] ACM Transactions on Privacy and Security (TOPS).

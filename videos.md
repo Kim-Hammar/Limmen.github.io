@@ -13,7 +13,6 @@ title: Videos
 
 [NDSS] Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination; NDSS, San Diego, USA.
 [Video](https://www.youtube.com/watch?v=TGuNgPEFnwk)
-[Video (talk recording)](https://www.youtube.com/watch?v=mFsKmzs_Nb0)
 
 [AAAI] Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees; AAAI, Singapore.
 [Video](https://www.youtube.com/watch?v=RzqFbvBoano)
@@ -28,10 +27,6 @@ title: Videos
 
 [Demo] Video demonstration of our LLM-based incident response system.
 [Video](https://www.youtube.com/watch?v=XXo4Y6LCWk4)
-
-[Podcast] Podcasts about our LLM-based incident response system.
-[Video](https://www.youtube.com/watch?v=Y5E7CLGPENk)
-[Video](https://www.youtube.com/watch?v=sSxYLTg4pGg)
 
 [Demo] Demo of our LLM-based incident response system.
 [Video](https://www.youtube.com/watch?v=e7ckmv5p6cI)
@@ -61,7 +56,6 @@ title: Videos
 
 [CDIS] Automated Intrusion Response; CDIS Spring Conference, Stockholm.
 [Video](https://www.youtube.com/watch?v=9z5Tw22EeF8)
-[Video (KTH Play)](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4)
 
 [Demo] Installation of the Cyber Security Learning Environment (CSLE) v0.5.
 [Video](https://www.youtube.com/watch?v=l_g3sRJwwhc)
@@ -93,7 +87,6 @@ title: Videos
 
 [IT-försvarsdagen] Självlärande system för cyberförsvar; IT-försvarsdagen, Linköping.
 [Video](https://www.youtube.com/watch?v=IWs8z8G8OWg)
-[Video (recording)](https://www.youtube.com/watch?v=79F3l3Zoj9U)
 
 [CDIS] Självlärande system för cyberförsvar.
 [Video](https://www.youtube.com/watch?v=airADaCzNGU)

@@ -19,7 +19,7 @@ and a Ph.D. student at KTH Royal Institute of Technology.
 
 Before starting his Ph.D., he worked as a Research Engineer at Hopsworks, as a Data Analytics Engineer at Allstate in Chicago,
 as a network operator at Tele2, as a research intern at Ericsson, and as a research engineer at MIC Nordic.
-He graduated with a MSc degree in distributed systems from KTH in 2018 with a GPA of 5/5.
+He graduated with an M.Sc. degree in distributed systems from KTH in 2018 with a GPA of 5/5.
 
 He was the recipient of the best demonstration paper award at IEEE NOMS in 2022.
 He was the recipient of the VR International Postdoctoral Fellowship 2025.
