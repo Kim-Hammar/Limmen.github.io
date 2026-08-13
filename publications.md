@@ -123,16 +123,13 @@ Kim Hammar and Rolf Stadler
 [IEEE Proceedings](https://ieeexplore.ieee.org/document/10647020)
 [arXiv(preprint)](https://arxiv.org/abs/2404.01741)
 [bib](/assets/citations/2024/dsn.bib)
+[Poster](/assets/papers/2024/dsn_poster.pdf)
 
 [NOMS] *Online Policy Adaptation for Networked Systems using Rollout*; NOMS 2024: IEEE/IFIP Network Operations and Management Symposium, Seoul, South Korea May 6-10.
 Forough Shahab Samani, Kim Hammar and Rolf Stadler
 [IEEE Proceedings](https://ieeexplore.ieee.org/document/10575707)
 [PDF](/assets/papers/2024/noms.pdf)
 [bib](/assets/citations/2024/noms.bib)
-
-[Poster] *Intrusion Tolerance for Networked Systems through Two-Level Feedback Control*; IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27.
-Kim Hammar and Rolf Stadler
-[PDF](/assets/papers/2024/dsn_poster.pdf)
 
 [Poster] *Intrusion Tolerance for Networked Systems through Two-Level Feedback Control*; CDIS spring conference 2024, Stockholm, Sweden May 22.
 Kim Hammar and Rolf Stadler
@@ -172,6 +169,7 @@ Forough Shahab Samani, Kim Hammar and Rolf Stadler
 [IEEE Proceedings](https://ieeexplore.ieee.org/document/10154365)
 [PDF(preprint)](/assets/papers/2023/noms_demo_preprint.pdf)
 [bib](/assets/citations/2023/noms_2.bib)
+[Poster](/assets/papers/2023/noms_poster.pdf)
 
 [Technical report] *Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure*
 Kim Hammar and Neil Dhir
@@ -181,10 +179,6 @@ Kim Hammar and Neil Dhir
 [Poster] *Learning Near-Optimal Intrusion Responses Against Dynamic Attackers*; CDIS spring conference 2023, Stockholm, Sweden May 25.
 Kim Hammar and Rolf Stadler
 [PDF](/assets/papers/2023/cdis_poster.pdf)
-
-[Poster] *Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh*; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
-Forough Shahab Samani, Kim Hammar and Rolf Stadler
-[PDF](/assets/papers/2023/noms_poster.pdf)
 
 ### 2022
 
