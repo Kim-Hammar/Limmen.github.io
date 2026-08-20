@@ -19,6 +19,9 @@ title: Services
 [Reviewer] Computers and Security.
 [Journal page](https://www.sciencedirect.com/journal/computers-and-security).
 
+[Reviewer] Pragmatic Cybersecurity.
+[Journal page](https://www.sciltp.com/journals/pc).
+
 [Reviewer] IEEE Internet of Things Journal.
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907).
 
