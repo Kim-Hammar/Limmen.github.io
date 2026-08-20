@@ -15,7 +15,7 @@ Kim Hammar and Yuchao Li.
 [ArXiv(preprint)](https://arxiv.org/abs/2607.11187),
 [bibtex](/assets/citations/2026/recovery_control.bib).
 
-[Submitted] *Causal Online Learning of Safe Regions in Cloud Radio Access Networks*; TMC 2026: IEEE Transactions on Mobile Computing (IEEE TMC).
+[TMC] *Causal Online Learning of Safe Regions in Cloud Radio Access Networks*; TMC 2026: IEEE Transactions on Mobile Computing (IEEE TMC).
 Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
 [IEEE Proceedings](https://ieeexplore.ieee.org/document/11659119),
 [ArXiv(preprint)](https://arxiv.org/abs/2602.05280),
