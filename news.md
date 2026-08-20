@@ -5,6 +5,10 @@ title: News
 
 ### 2026
 
+[20 Aug] Our paper "Causal Online Learning of Safe Regions in Cloud Radio Access Networks" was accepted to [IEEE TMC](https://ieeexplore.ieee.org/document/11659119).
+
+[20 Jul] My paper "Multiagent LLM Systems for Securrity Operations" was accepted to [IEEE TMC](https://ieeexplore.ieee.org/document/11636000).
+
 [2 Jul] Our paper "Adaptive Network Security Policies via Belief Aggregation and Rollout" was accepted to [IEEE TIFS](https://ieeexplore.ieee.org/document/11592598).
 
 [27 May] Moved to Imperial College London as a postdoctoral researcher (Dept. of Computing).
