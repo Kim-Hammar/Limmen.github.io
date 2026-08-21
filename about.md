@@ -7,26 +7,18 @@ title: About
 
 Kim Hammar is a postdoctoral researcher at Imperial College London.
 His main research interest is automatic control and management of networked systems.
-He received his Ph.D. from KTH Royal Institute of Technology.
+Hammar received his Ph.D. from KTH Royal Institute of Technology.
 
 ### Extended biography
 
-Kim Hammar is a postdoctoral researcher at Imperial College London.
-His main research interest is automatic control and management of networked systems. Previously he has been a postdoctoral researcher at the University of Melbourne,
-a visiting scholar at Arizona State University,
-a visiting professor at [Paris 1 Panthéon-Sorbonne University](/assets/other/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University"),
-and a Ph.D. student at KTH Royal Institute of Technology.
+Kim Hammar is a postdoctoral researcher at Imperial College London. His main research interest is automatic control and management of networked systems. Previously he has been a postdoctoral researcher at the University of Melbourne, a visiting scholar at Arizona State University, a visiting professor at [Paris 1 Panthéon-Sorbonne University](/assets/other/sorbonne_invitation_Hammar.pdf "Paris 1 Panthéon-Sorbonne University"), and a Ph.D. student at KTH Royal Institute of Technology.
 
-Before starting his Ph.D., he worked as a Research Engineer at Hopsworks, as a Data Analytics Engineer at Allstate in Chicago,
+Before starting his Ph.D., Hammar worked as a Research Engineer at Hopsworks, as a Data Analytics Engineer at Allstate in Chicago,
 as a network operator at Tele2, as a research intern at Ericsson, and as a research engineer at MIC Nordic.
 He graduated with an M.Sc. degree in distributed systems from KTH in 2018 with a GPA of 5/5.
 
-He was the recipient of the best demonstration paper award at IEEE NOMS in 2022.
-He was the recipient of the VR International Postdoctoral Fellowship 2025.
-He was selected as a [rising star](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/past-events?authuser=0 "rising star")
-in cyberphysical systems security by the IEEE control systems society in 2026.
-He is an associate editor for the IEEE Transactions on Network and Service Management.
-He is a TPC member of ACSAC, GameSec, GraSec, and AAAI.
+Hammar was the recipient of the best demonstration paper award at IEEE NOMS in 2022, the VR International Postdoctoral Fellowship in 2025, and the IEEE control systems society [rising star](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/past-events?authuser=0 "rising star") in cyberphysical systems security in 2026.
+Hammar is an associate editor for the IEEE Transactions on Network and Service Management and a TPC member of ACSAC, GameSec, GraSec, and AAAI.
 
 ### Research visits
 
