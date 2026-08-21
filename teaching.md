@@ -1,13 +1,10 @@
----
-layout: page
-title: Teaching
----
+
 
 ### 2026
 
-[Supervisor] Capstone project (assistant supervisor); Sithira Jayasinghe, James Condos, and Yosua Liu, analyzing data from an operational radio-access network. Co-supervisor to Prof. Tansu Alpcan at the University of Melbourne.
+[Assistant supervisor] Capstone project; Sithira Jayasinghe, James Condos, and Yosua Liu, analyzing data from an operational radio-access network. Co-supervisor to Prof. Tansu Alpcan at the University of Melbourne.
 
-[Supervisor] Research project (assistant supervisor); Dilki Wijekoon, idle-mode load balancing in radio access networks. Co-supervisor to Prof. Tansu Alpcan at the University of Melbourne for a project with Telstra Australia.
+[Assistant supervisor] Research project; Dilki Wijekoon, idle-mode load balancing in radio access networks. Assistant to Prof. Tansu Alpcan at the University of Melbourne for a project with Telstra Australia.
 
 ### 2025
 
