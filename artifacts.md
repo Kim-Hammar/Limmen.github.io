@@ -15,7 +15,7 @@ title: Artifacts
 
 [\[SAB.jl\]](https://github.com/Kim-Hammar/SAB.jl) A Julia package implementing an aggregation method for value approximation of one-sided partially observed stochastic games (OS-POSGs); artifacts related to the paper "Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees", published at AAAI 2026.
 
-[\[Code and data for incident response LLM fine-tuning\]](https://github.com/Kim-Hammar/llm_incident_response_ndss26) Artifacts related to the paper "Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination", which is accepted to The Network and Distributed System Security (NDSS) Symposium 2026. We introduce a novel method that enables the effective use of a large language model (LLM) to provide decision support for incident response planning. [Data repository](https://huggingface.co/datasets/kimhammar/CSLE-IncidentResponse-V1); [Video demonstration](https://www.youtube.com/watch?v=XXo4Y6LCWk4).
+[\[Code and data for incident response LLM fine-tuning\]](https://github.com/Kim-Hammar/llm_incident_response_ndss26) Artifacts related to the paper "Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination", published at [The Network and Distributed System Security (NDSS) Symposium 2026](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/). We introduce a novel method that enables the effective use of a large language model (LLM) to provide decision support for incident response planning. [Data repository](https://huggingface.co/datasets/kimhammar/CSLE-IncidentResponse-V1); [Video demonstration](https://www.youtube.com/watch?v=XXo4Y6LCWk4).
 
 ### 2021
 
@@ -59,4 +59,4 @@ title: Artifacts
 
 [\[SSL VPN\]](https://github.com/Kim-Hammar/Basic_SSL_VPN) A C implementation of a SSL VPN that supports secure key exchange and encrypted communication.
 
-[\[AgentProgramming\]](https://github.com/Kim-Hammar/AgentProgramming) Programming of Multi-Agent Systems. [Report 1](/assets/papers/2016/agent_programming_report_1.pdf); [Report 2](/assets/papers/2016/agent_programming_report_2.pdf).
+[\[AgentProgramming\]](https://github.com/Kim-Hammar/AgentProgramming) Programming of Multi-Agent Systems. [Report 1](/assets/papers/2016/agent_programming_report_1.pdf); [report 2](/assets/papers/2016/agent_programming_report_2.pdf).
