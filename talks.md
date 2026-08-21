@@ -16,7 +16,7 @@ title: Talks
 [IEEE TCSP] Autonomous Security Management of Networked Systems through Learning-based Control; IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP) symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0), Paris, France, May 15, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems-9c08/287529877),
 [slides (PDF)](/assets/slides/2026/ieee_tcsp.pdf),
-[Video](https://www.youtube.com/watch?v=b_hzr-8Rd_c).
+[video](https://www.youtube.com/watch?v=b_hzr-8Rd_c).
 
 [Sorbonne] Learning-based Control of Networked Systems; Paris 1 Panthéon-Sorbonne University, Paris, France, May 12, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems/287473415),
@@ -28,7 +28,7 @@ title: Talks
 
 [NDSS] Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination; NDSS, San Diego, USA, February 24, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination/286220446),
-[NDSS Video](https://www.youtube.com/watch?v=TGuNgPEFnwk).
+[NDSS video](https://www.youtube.com/watch?v=TGuNgPEFnwk).
 
 [University of Melbourne] Online Identification of IT Systems through Active Causal Learning; University of Melbourne, Melbourne, Australia, January 29, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning-3204/285696998).
@@ -36,7 +36,7 @@ title: Talks
 [AAAI] Scalable Solutions to Zero-Sum Partially Observable Stochastic Games Through Belief Aggregation with Approximation Guarantees; AAAI, Singapore, January 22, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/scalable-solutions-to-zero-sum-partially-observable-stochastic-games-through-belief-aggregation-with-approximation-guarantees/285440683),
 [slides (PDF)](/assets/slides/2026/aaai.pdf),
-[Video](https://www.youtube.com/watch?v=RzqFbvBoano).
+[video](https://www.youtube.com/watch?v=RzqFbvBoano).
 
 ### 2025
 
@@ -47,7 +47,7 @@ title: Talks
 [Ericsson Research] Online Identification of IT Systems through Active Causal Learning; Ericsson Research, Melbourne, Australia, November 18, 2025.
 [Slides (online)](https://www.slideshare.net/slideshow/online-identification-of-it-systems-through-active-causal-learning/284185908),
 [slides (PDF)](/assets/slides/2025/ericsson_research.pdf),
-[Video](https://www.youtube.com/watch?v=PEv_ikad5DI).
+[video](https://www.youtube.com/watch?v=PEv_ikad5DI).
 
 [City University of Hong Kong] Automated Security with a Foundation Model; City University of Hong Kong, Hong Kong, China, October 20, 2025.
 [Slides (online)](https://www.slideshare.net/slideshow/automated-security-with-a-foundation-model/283860966),
@@ -56,19 +56,19 @@ title: Talks
 [ASU] Approximation in Value Space using Aggregation, with Applications to POMDPs and Cybersecurity; Arizona State University, Arizona, USA, Apr 2, 2025.
 [Slides (online)](https://www.slideshare.net/slideshow/approximation-in-value-space-using-aggregation-with-applications-to-pomdps-and-cybersecurity/277463565),
 [slides (PDF)](/assets/slides/2025/asu.pdf),
-[Video](https://www.youtube.com/watch?v=gsD2JgTrUhU).
+[video](https://www.youtube.com/watch?v=gsD2JgTrUhU).
 
 [KTH] Adaptive Security Policies via Belief Aggregation and Rollout; KTH Royal Institute of Technology, Stockholm, Sweden, Mar 3, 2025.
 [Slides (online)](https://www.slideshare.net/slideshow/adaptive-security-policies-via-belief-aggregation-and-rollout/276233202),
 [slides (PDF)](/assets/slides/2025/kth.pdf),
-[Video](https://www.youtube.com/watch?v=eb7YgVSpAsg).
+[video](https://www.youtube.com/watch?v=eb7YgVSpAsg).
 
 ### 2024
 
 [PhD defense] Optimal Security Response to Network Intrusions in IT Systems; KTH Royal Institute of Technology, Stockholm, Sweden, Dec 5, 2024.
 [Slides (online)](https://www.slideshare.net/slideshow/optimal-security-response-to-network-intrusions-in-it-systems/273897370),
 [slides (PDF)](/assets/slides/2024/phd_defense.pdf),
-[Video](https://www.youtube.com/watch?v=n2zjh_YQjXY&).
+[video](https://www.youtube.com/watch?v=n2zjh_YQjXY&).
 
 [GameSec] Intrusion Tolerance as a Two-Level Game; GameSec, New York, USA, Oct 16, 2024.
 [Slides (online)](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-gamesec24/272500784),
@@ -81,7 +81,7 @@ title: Talks
 [University of Melbourne] Intrusion Tolerance as a Two-Level Game; University of Melbourne, Melbourne, Australia, June 20, 2024.
 [Slides (online)](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-visit-to-melbourne-university/269781964),
 [slides (PDF)](/assets/slides/2024/university_of_melbourne.pdf),
-[Video](https://www.youtube.com/watch?v=WOZFC_bdCW4).
+[video](https://www.youtube.com/watch?v=WOZFC_bdCW4).
 
 [CTO seminar] Automated Intrusion Response; Stockholm, Sweden, CTO seminar, May 31, 2024.
 [Slides (PDF)](/assets/slides/2024/cto_seminar.pdf).
@@ -89,7 +89,7 @@ title: Talks
 [CDIS] Automated Intrusion Response; Stockholm, Sweden, CDIS Spring Conference, May 22, 2024.
 [Slides (online)](https://www.slideshare.net/slideshow/automated-intrusion-response-cdis-spring-conference-2024/269220115),
 [slides (PDF)](/assets/slides/2024/cdis.pdf),
-[Video](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4).
+[video](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4).
 
 [Reading group] PID-Piper: Recovering Robotic Vehicles from Physical Attacks; Stockholm, KTH, ML+Security Reading Group NSE Apr 19 2024, Division of Network and Systems Engineering.
 [Slides (PDF)](/assets/slides/2024/reading_group.pdf).
@@ -97,7 +97,7 @@ title: Talks
 [NSE seminar] Automated Security Response through Online Learning with Adaptive Conjectures; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, April 5 2024.
 [Slides (online)](https://www.slideshare.net/slideshow/automated-security-response-through-online-learning-with-adaptive-con-jectures/267113392),
 [slides (PDF)](/assets/slides/2024/nse_seminar.pdf),
-[Video](https://www.youtube.com/watch?v=K2JnC6z72fI).
+[video](https://www.youtube.com/watch?v=K2JnC6z72fI).
 
 [Handelsbanken] Självlärande System för Cybersäkerhet; Besök av Handelsbanken, Stockholm, Sweden, Jan 11 2024.
 [Slides (online)](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet-kth),
@@ -108,7 +108,7 @@ title: Talks
 [Ericsson Research] Learning Automated Intrusion Response; Ericsson research, Stockholm, Sweden, Dec 8 2023.
 [Slides (online)](https://www.slideshare.net/KimHammar/learning-automated-intrusion-response),
 [slides (PDF)](/assets/slides/2023/ericsson_research.pdf),
-[Video](https://www.youtube.com/watch?v=_Y_1I_BEb58).
+[video](https://www.youtube.com/watch?v=_Y_1I_BEb58).
 
 [NSE seminar] Intrusion Tolerance for Networked Systems through Two-Level Feedback Control; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, Nov 10 2023.
 [Slides (online)](https://www.slideshare.net/KimHammar/intrusion-tolerance-for-networked-systems-through-twolevel-feedback-control),
@@ -138,7 +138,7 @@ title: Talks
 [slides (PDF)](/assets/slides/2023/nyu.pdf).
 
 [NOMS] Digital Twins for Security Automation; Miami, USA, KTH, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium May 8-12.
-[Video](https://www.youtube.com/watch?v=Gi-_KSNYVCk),
+[video](https://www.youtube.com/watch?v=Gi-_KSNYVCk),
 [slides (PDF)](/assets/slides/2023/noms.pdf),
 [slides (online)](https://www.slideshare.net/KimHammar/digital-twins-for-security-automation).
 
@@ -156,26 +156,26 @@ title: Talks
 [NYU] Intrusion Response through Optimal Stopping; New York, USA, invited talk, Quanyan Zhu's research group, Jan 30 2023.
 [Slides (online)](https://www.slideshare.net/KimHammar/intrusion-response-through-optimal-stopping),
 [slides (PDF)](/assets/slides/2023/nyu_2.pdf),
-[Video](https://www.youtube.com/watch?v=Qzp_wiNW91o).
+[video](https://www.youtube.com/watch?v=Qzp_wiNW91o).
 
 ### 2022
 
 [IT-försvarsdagen] Självlärande system för cyberförsvar; Linköping, Sweden, IT-försvarsdagen 2022 Dec 6.
 [Slides (online)](https://www.slideshare.net/KimHammar/cnsm-2022-an-online-framework-for-adapting-security-policies-in-dynamic-it-environment-hammar-stadler),
 [slides (PDF)](/assets/slides/2022/it_forsvarsdagen.pdf),
-[Video](https://www.youtube.com/watch?v=IWs8z8G8OWg).
+[video](https://www.youtube.com/watch?v=IWs8z8G8OWg).
 
 [CNSM] An Online Framework for Adapting Security Policies in Dynamic IT Environment; Thessaloniki, Greece, CNSM 2022: International Conference on Network and Service Management Oct 31 - Nov 4.
 Kim Hammar and Rolf Stadler.
 [Slides (online)](https://www.slideshare.net/KimHammar/cnsm-2022-an-online-framework-for-adapting-security-policies-in-dynamic-it-environment-hammar-stadler),
 [slides (PDF)](/assets/slides/2022/cnsm.pdf),
 [Event](http://www.cnsm-conf.org/2022/),
-[Video](https://www.youtube.com/watch?v=r1FD2-b-25g).
+[video](https://www.youtube.com/watch?v=r1FD2-b-25g).
 
 [CDIS] Self-learning Systems for Cyber Defense; Lidingö, Sweden, CDIS fall retreat, October 28 2022.
 [Slides (online)](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-defense),
 [slides (PDF)](/assets/slides/2022/cdis.pdf),
-[Video](https://youtu.be/tpal1DoNBy8).
+[video](https://youtu.be/tpal1DoNBy8).
 
 [NSE seminar] Self-learning Intrusion Prevention Systems; Stockholm, Sweden, KTH, NSE Seminar, October 21 2022, Division of Network and Systems Engineering.
 [Slides (online)](https://www.slideshare.net/KimHammar/selflearning-intrusion-prevention-systems),
@@ -188,11 +188,11 @@ Kim Hammar and Rolf Stadler.
 Kim Hammar and Rolf Stadler.
 [Slides (online)](https://www.slideshare.net/KimHammar/learning-security-strategies-through-game-play-and-optimal-stopping),
 [slides (PDF)](/assets/slides/2022/icml.pdf),
-[Video](https://www.youtube.com/watch?v=Qz6huGXjhec).
+[video](https://www.youtube.com/watch?v=Qz6huGXjhec).
 
 [NOMS] A System for Interactive Examination of Learned Security Policies; Budapest, Hungary NOMS 2022: IEEE/IFIP Network Operations and Management Symposium April 25-29.
 Kim Hammar and Rolf Stadler.
-[Video](https://www.youtube.com/watch?v=18P7MjPKNDg).
+[video](https://www.youtube.com/watch?v=18P7MjPKNDg).
 
 [Alan Turing Institute] Intrusion Prevention through Optimal Stopping; London, UK, Alan Turing Institute, invited talk, Mar 25 2022.
 [Slides (online)](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251427388),
@@ -227,8 +227,8 @@ Kim Hammar and Rolf Stadler.
 Kim Hammar and Rolf Stadler.
 [Slides (online)](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping-cnsm2021),
 [slides (PDF)](/assets/slides/2021/cnsm.pdf),
-[Event](http://www.cnsm-conf.org/2021/),
-[Video](https://www.youtube.com/watch?v=_zL4qR5-jU8).
+[event](http://www.cnsm-conf.org/2021/),
+[video](https://www.youtube.com/watch?v=_zL4qR5-jU8).
 
 [Reading group] Reinforcement Learning Algorithms for Adaptive Cyber Defense against Heartbleed; Stockholm, Sweden, KTH, ML+Security Reading Group NSE October 22 2021, Division of Network and Systems Engineering.
 [Slides (online)](https://www.slideshare.net/KimHammar/reinforcement-learning-algorithms-for-adaptive-cyber-defense-against-heartbleed),
@@ -258,7 +258,7 @@ Kim Hammar and Rolf Stadler.
 
 [CDIS] Self-Learning Systems for Cyber Defense; Stockholm, Sweden, Mar 24 2021.
 Kim Hammar, Rolf Stadler.
-[Video](https://www.youtube.com/watch?v=88W69Wu0FYM).
+[video](https://www.youtube.com/watch?v=88W69Wu0FYM).
 
 [NSE seminar] Self-Learning Systems for Cyber Security; Stockholm, Sweden, KTH, NSE Seminar April 9 2021, Division of Network and Systems Engineering.
 Kim Hammar and Rolf Stadler.
@@ -281,8 +281,8 @@ Kim Hammar and Rolf Stadler.
 Kim Hammar and Rolf Stadler.
 [Slides (online)](https://www.slideshare.net/KimHammar/cdis-hammar-stadler15oct2020),
 [slides (PDF)](/assets/slides/2020/cnsm.pdf),
-[Event](http://www.cnsm-conf.org/2020/),
-[Video](https://www.youtube.com/watch?v=9ihiIPVRB58).
+[event](http://www.cnsm-conf.org/2020/),
+[video](https://www.youtube.com/watch?v=9ihiIPVRB58).
 
 [CDIS] Self-Learning Systems for Cyber Security; Stockholm, Sweden, KTH, Center for Cyber Defense and Information Security, October 15 2020.
 [Slides (online)](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security),
@@ -296,7 +296,7 @@ Kim Hammar and Rolf Stadler.
 
 [Spark+AI Summit] End-to-End ML Pipelines with Databricks Delta and Hopsworks Feature Store; Amsterdam, Netherlands, Spark+AI Summit October 2019.
 [Event](https://databricks.com/session_eu19/end-to-end-spark-tensorflow-pytorch-pipelines-with-databricks-delta),
-[Video](https://www.youtube.com/watch?v=zGNQQfEjCQY),
+[video](https://www.youtube.com/watch?v=zGNQQfEjCQY),
 [slides (online)](https://www.slideshare.net/KimHammar/spark-ai-summitoct172019kimhammarjimdowlingv6),
 [slides (PDF)](/assets/slides/2019/spark_ai_summit.pdf).
 
@@ -315,8 +315,8 @@ Kim Hammar and Rolf Stadler.
 
 [SF ML Meetup] Distributed Deep Learning with Hopsworks; San Francisco, USA, SF machine Learning Meetup, 25 April 2019.
 [Slides (online)](https://www.slideshare.net/KimHammar/distributed-deep-learningwithhopsworkskimhammar25april2019),
-[Event](https://www.meetup.com/sfmachinelearning/events/260177607),
-[Video](https://www.youtube.com/watch?v=V6siDg2REZQ&feature=youtu.be&t=2697),
+[event](https://www.meetup.com/sfmachinelearning/events/260177607),
+[video](https://www.youtube.com/watch?v=V6siDg2REZQ&feature=youtu.be&t=2697),
 [slides (PDF)](/assets/slides/2019/sf_ml_meetup.pdf).
 
 [HopsML Meetup] Distributed Deep Learning with the Hopsworks Feature Store; Palo Alto, USA, HopsML Meetup, 23 April 2019.
@@ -331,7 +331,7 @@ Kim Hammar and Rolf Stadler.
 [FOSDEM] Feature Store: the missing data layer in ML pipelines; Brussels, Belgium, FOSDEM, January 30 2019.
 [Event](https://archive.fosdem.org/2019/schedule/event/feature_store/),
 [slides (online)](https://www.slideshare.net/KimHammar/kim-hammar-feature-store-the-missing-data-layer-in-ml-pipelines-hopsml-meetup-stockholm),
-[Video](https://www.youtube.com/watch?v=86rrEJqRLO4&t=),
+[video](https://www.youtube.com/watch?v=86rrEJqRLO4&t=),
 [slides (PDF)](/assets/slides/2019/fosdem.pdf).
 
 [HopsML Meetup] Feature Store: the missing data layer in ML pipelines; Stockholm, Sweden, HopsML meetup, January 29 2019.
