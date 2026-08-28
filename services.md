@@ -174,7 +174,7 @@ title: Services
 [Member] IEEE Control Systems Society (CSS), since 2026.
 [Society page](https://www.ieeecss.org/).
 
-[Member] IEEE Technical Early-Career Committee on Security and Privacy, since 2025.
+[Member] IEEE CSS Technical Committee on Security and Privacy (TCSP) Early-Career Committee, since 2025.
 [Committee page](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).
 
 [Member] AAAI, Association for the Advancement of Artificial Intelligence, since 2025.
