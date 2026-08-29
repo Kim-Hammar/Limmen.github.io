@@ -5,6 +5,9 @@ title: Services
 
 ### 2027
 
+[Technical program committee member] Conference on Machine Learning and Systems (MLSys) 2027.
+[Conference page](https://mlsys.org/).
+
 [Technical program committee member] AAAI Conference on Artificial Intelligence 2027.
 [Conference page](https://aaai.org/conference/aaai/aaai-27/).
 
