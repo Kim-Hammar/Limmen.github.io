@@ -16,6 +16,9 @@ title: Services
 [Associate editor] IEEE Transactions on Network and Service Management.
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028).
 
+[Reviewer] IEEE GLOBECOM.
+[Conferernce page](https://globecom2026.ieee-globecom.org/).
+
 [Reviewer] Operations Research Forum.
 [Journal page](https://link.springer.com/journal/43069).
 
