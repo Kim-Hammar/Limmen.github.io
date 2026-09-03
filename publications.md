@@ -52,8 +52,15 @@ Yiran Gao, Kim Hammar, and Tao Li.
 
 [NOMS] *Hallucination-Resistant Security Planning with a Large Language Model*; IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
 Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/11668410),
+[DEMO](https://ieeexplore.ieee.org/document/11668303),
 [ArXiv(preprint)](https://www.arxiv.org/abs/2602.05279),
 [bibtex](/assets/citations/2026/noms.bib).
+
+[NOMS] *Optimal Incident Response in IT Systems*; IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026, Rome, Italy, May 18-22 2026.
+Kim Hammar.
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/11668422),
+[bibtex](/assets/citations/2026/noms_thesis_digest.bib).
 
 [NDSS] *Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination*; Network and Distributed System Security (NDSS) Symposium 2026, San Diego, USA, February 23-27 2026.
 Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
@@ -69,6 +76,8 @@ Kim Hammar and Tansu Alpcan.
 [AAAI Video](https://ojs.aaai.org/index.php/AAAI/article/view/38750/49333),
 [Poster](/assets/papers/2026/aaai_poster.pdf),
 [bibtex](/assets/citations/2026/aaai.bib).
+
+
 
 ### 2025
 
