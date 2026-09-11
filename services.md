@@ -16,6 +16,9 @@ title: Services
 [Associate editor] IEEE Transactions on Network and Service Management.
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028).
 
+[Reviewer] IEEE Transactions on Dependable and Secure Computing (TDSC).
+[Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858).
+
 [Reviewer] IEEE GLOBECOM.
 [Conferernce page](https://globecom2026.ieee-globecom.org/).
 
