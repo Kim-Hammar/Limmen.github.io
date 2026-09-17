@@ -81,7 +81,7 @@ Kim Hammar and Tansu Alpcan.
 
 ### 2025
 
-[Submitted] *Online Identification of IT Systems through Active Causal Learning*; submitted.
+[TNSM] *Online Identification of IT Systems through Active Causal Learning*; TNSM 2026: IEEE Transactions on Network and Service Management (IEEE TNSM).
 Kim Hammar and Rolf Stadler.
 [ArXiv(preprint)](https://arxiv.org/abs/2509.02130),
 [bibtex](/assets/citations/2025/online_identification.bib).
@@ -112,7 +112,7 @@ Kim Hammar and Tao Li.
 
 ### 2024
 
-[Submitted] *Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search*; submitted.
+[TNSM] *Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search*; TNSM 2026: IEEE Transactions on Network and Service Management (IEEE TNSM).
 Kim Hammar, Neil Dhir, and Rolf Stadler.
 [ArXiv(preprint)](https://arxiv.org/abs/2407.11070),
 [bibtex](/assets/citations/2024/optimal_defender_strategies.bib).
