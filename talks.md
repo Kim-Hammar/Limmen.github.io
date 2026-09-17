@@ -18,6 +18,9 @@ title: Talks
 [slides (PDF)](/assets/slides/2026/ieee_tcsp.pdf),
 [video](https://www.youtube.com/watch?v=b_hzr-8Rd_c).
 
+[Ericsson research] Causal world models, London, UK, September 17, 2026.
+[Slides (PDF)](/assets/slides/2026/ericsson_sep_2026_kth_causality_research_questions.pdf).
+
 [Sorbonne] Learning-based Control of Networked Systems; Paris 1 Panthéon-Sorbonne University, Paris, France, May 12, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/learning-based-control-and-autonomous-management-of-complex-networked-systems/287473415),
 [slides (PDF)](/assets/slides/2026/sorbonne.pdf).
