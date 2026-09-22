@@ -114,6 +114,7 @@ Kim Hammar and Tao Li.
 
 [TNSM] *Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search*; TNSM 2026: IEEE Transactions on Network and Service Management (IEEE TNSM).
 Kim Hammar, Neil Dhir, and Rolf Stadler.
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/11701605),
 [ArXiv(preprint)](https://arxiv.org/abs/2407.11070),
 [bibtex](/assets/citations/2024/optimal_defender_strategies.bib).
 
