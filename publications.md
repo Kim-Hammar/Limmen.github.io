@@ -83,6 +83,7 @@ Kim Hammar and Tansu Alpcan.
 
 [TNSM] *Online Identification of IT Systems through Active Causal Learning*; TNSM 2026: IEEE Transactions on Network and Service Management (IEEE TNSM).
 Kim Hammar and Rolf Stadler.
+[IEEE Proceedings](https://ieeexplore.ieee.org/document/11703783),
 [ArXiv(preprint)](https://arxiv.org/abs/2509.02130),
 [bibtex](/assets/citations/2025/online_identification.bib).
 

@@ -5,6 +5,8 @@ title: News
 
 ### 2026
 
+[23 Sep] Our paper "Online Identification of IT Systems through Active Causal Learning" was accepted to [IEEE TNSM](https://ieeexplore.ieee.org/document/11703783).
+
 [20 Aug] Our paper "Causal Online Learning of Safe Regions in Cloud Radio Access Networks" was accepted to [IEEE TMC](https://ieeexplore.ieee.org/document/11659119).
 
 [20 Jul] My paper "Multiagent LLM Systems for Securrity Operations" was accepted to [IEEE S&P](https://ieeexplore.ieee.org/document/11636000).
