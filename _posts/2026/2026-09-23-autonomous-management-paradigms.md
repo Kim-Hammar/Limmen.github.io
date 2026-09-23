@@ -7,19 +7,19 @@ Autonomous management of networks and systems is a broad research area with a lo
 
 ### Policy-based management
 
-Policy-based management specifies the desired network behavior through policies that are defined by operators and enforced automatically. It separates the specification of policies from their enforcement. A policy typically consists of a set of rules that specify management actions to apply when certain system events occur. For example, a policy could be to start a service replica when the number of active replicas is below a threshold. A limitation of policy-based management is that the policies must be specified in advance, which requires operators to anticipate every relevant event and the appropriate response to it.
+Policy-based management specifies the desired network behavior through policies that are defined by operators and enforced automatically. It separates the specification of policies from their enforcement. A policy typically consists of a set of rules that specify management actions to apply when certain system events occur. A limitation of policy-based management is that the policies must be specified in advance, which requires operators to anticipate every relevant event and the appropriate response to it.
 
 ### Intent-based management
 
-Intent-based management concerns the interface between operator and system. An intent specifies what outcome is desired, rather than how to achieve it. The system translates the intent into configurations or policies for achieving it. An intent is therefore a more abstract objective than a policy. A limitation of intent-based management is that it defines how objectives are specified but it does not prescribe an architecture or a mechanism for translating intents into actions and verifying that they are satisfied.
+Intent-based management concerns the interface between operator and system. An intent specifies what outcome is desired, rather than how to achieve it. The system translates the intent into configurations or policies for achieving it. An intent is therefore a more abstract objective than a policy. A limitation of intent-based management is that it defines how objectives are specified but it does not prescribe a mechanism for translating intents into actions.
 
 ### Autonomic computing
 
-Autonomic computing extends the idea of policy-based management to systems that manage themselves according to high-level management objectives. Its central abstraction is the MAPE-K loop, which is executed by an autonomic manager that controls a managed element, e.g., a server or a network device. The loop has four phases: (i) the manager monitors the element through sensors; (ii) analyzes the collected data to detect deviations from the objectives; (iii) plans actions to correct these deviations; (iv) and executes the actions through effectors.  A limitation of autonomic computing is that it defines an architecture but not the methods for analysis and planning. Moreover, the MAPE-K loop is designed to compute actions from given knowledge, not to acquire that knowledge from experience, i.e., it is not an explicit learning-based architecture.
+Autonomic computing extends the idea of policy-based management to systems that manage themselves according to high-level management objectives. Its central abstraction is the MAPE-K loop, which is executed by an autonomic manager that controls a managed element, e.g., a server or a network device. The loop has four phases: (i) the manager monitors the element through sensors; (ii) analyzes the collected data to detect deviations from the objectives; (iii) plans actions to correct these deviations; (iv) and executes the actions through effectors.  A limitation of autonomic computing is that it defines an architecture but not the methods for planning and learning.
 
 ### Self-organizing networks
 
-Self-organizing networks apply autonomous management to communication networks through functions such as self-configuration and self-optimization. Developed mainly for radio networks, these functions automate configuration, parameter optimization, and fault handling based on network measurements and predefined objectives. A key limitation of this approach is that it is centered on preconfigured autonomous functions for radio networks, rather than providing a general framework for autonomous management. In particular, it specifies how autonomous management functions are structured and automated, while leaving the decision-making process and mechanisms for learning from experience unspecified.
+Self-organizing networks apply autonomous management to communication networks through functions such as self-configuration and self-optimization. Developed mainly for radio networks, these functions automate configuration and management based on network measurements and predefined objectives. A key limitation of this approach is that it is centered on preconfigured autonomous functions for radio networks, rather than providing a general framework for autonomous management. In particular, it specifies how management functions are automated, while leaving the decision-making and learning process unspecified.
 
 ### Zero-touch management
 
@@ -27,21 +27,19 @@ Zero-touch management aims to automate the full lifecycle of network and service
 
 ### Cognitive management
 
-Cognitive management extends autonomous management with mechanisms for learning from observations and past experience. A cognitive management system maintains models of the managed system and its environment, uses data and feedback to update those models, and applies them to select or adapt management actions over time. In contrast to approaches based primarily on predefined rules, cognitive management can therefore improve its decision-making as operating conditions change and new situations are encountered.
-
-A limitation of cognitive management is that it is a broad paradigm rather than a specific architecture or learning method. It does not prescribe how knowledge should be represented, how learning should be performed, or how learned decisions should be constrained and validated before being applied to the managed system.
+Cognitive management extends autonomous management with mechanisms for learning from observations and past experience. A cognitive management system maintains models of the managed system and its environment, uses data and feedback to update those models, and applies them to select or adapt management actions over time. In contrast to approaches based primarily on predefined rules, cognitive management can therefore improve its decision-making as operating conditions change and new situations are encountered. A limitation of cognitive management is that it is a broad paradigm rather than a specific architecture or learning method.
 
 ### Summary
 
-In summary, no single paradigm fully specifies all aspects required of an autonomous management system. Hence, a complete autonomous management system will generally combine concepts from several paradigms rather than adhering to any one of them exclusively:
+In summary, no single paradigm fully specifies all aspects required for autonomous management. Hence, an autonomous management system needs to combine concepts from several paradigms:
 
 - Intent-based management addresses how management objectives are specified by expressing desired outcomes and constraints at a high level.
 
-- Policy-based management specifies how operator-defined rules are represented and enforced, while self-organizing networks apply predefined control and optimization functions to adapt network behavior automatically.
+- Policy-based management specifies how operator-defined rules are represented and enforced, while self-organizing networks apply predefined management functions to adapt network behavior automatically.
 
-- Autonomic computing and zero-touch management address how closed-loop management is structured. Autonomic computing focuses on the architecture of an autonomic manager and its interaction with a managed element, whereas zero-touch management extends closed-loop automation toward end-to-end services spanning multiple technologies and administrative domains.
+- Autonomic computing and zero-touch management address how closed-loop management is structured. 
 
-- Cognitive management addresses how management knowledge and decision rules can be learned from experience.
+- Cognitive management provides an architecture for learning management functions from experience.
 
 ## References
 
