@@ -3,7 +3,7 @@ title: Autonomous management paradigms
 updated: 2026-09-23 14:22
 ---
 
-Autonomous management of networks and systems is a broad research area with a long history. Several paradigms for autonomous management have been proposed over the years, including policy-based management [1], autonomic computing [2], self-organizing networks [3], intent-based management [4], zero-touch management [5], and cognitive management [6]. While all of these paradigm share a common vision of autonomous management, they differ in the degree and scope of autonomy they target and the mechanisms to achieve it.
+Autonomous management of networks and systems is a broad research area with a long history. Several paradigms for autonomous management have been proposed over the years, including policy-based management [1], autonomic computing [2], self-organizing networks [3], intent-based management [4], zero-touch management [5], and cognitive management [6]. While all of these paradigm share a common vision of autonomous management, they differ in the approach and degree of autonomy they target.
 
 ### Policy-based management
 
@@ -53,5 +53,5 @@ In summary, no single paradigm fully specifies all aspects required for autonomo
 
 [5] C. Grasso, R. Raftopoulos, and G. Schembra, "Smart Zero-Touch Management of UAV-Based Edge Network," IEEE Transactions on Network and Service Management, vol. 19, no. 4, pp. 4350–4368, 2022.
 
-[6] Mahmoud, Qusay H., "Cognitive Networks: Towards Self-Aware Networks," John Wiley \& Sons, 2007.
+[6] Mahmoud, Qusay H., "Cognitive Networks: Towards Self-Aware Networks," John Wiley & Sons, 2007.
 
