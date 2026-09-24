@@ -16,6 +16,9 @@ title: Services
 [Associate editor] IEEE Transactions on Network and Service Management.
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028).
 
+[Session chair] GameSec 2026, International Conference on Game Theory and AI for Security.
+[Conference page](https://www.gamesec-conf.org/organization.php).
+
 [Reviewer] IEEE Transactions on Dependable and Secure Computing (TDSC).
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858).
 
