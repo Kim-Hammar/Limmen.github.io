@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Academic services
 ---
 
 ### 2027
