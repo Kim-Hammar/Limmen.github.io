@@ -5,10 +5,13 @@ title: Publications
 
 ### 2026
 
-[IEEE S&P] *Multiagent LLM Systems for Security Operations*; IEEE Security & Privacy.
+[S&P] *Multiagent LLM Systems for Security Operations*; IEEE Security & Privacy.
 Kim Hammar.
 [IEEE Proceedings](https://ieeexplore.ieee.org/document/11636000),
 [bibtex](/assets/citations/2026/ieee_s_p.bib).
+
+[GC Wkshps] *AI-Based Load Balancing Towards Autonomous Radio Access Networks*; IEEE Globecom Workshops.
+Dilki Wijekoon, Hevish Cowlessur, Timothy J Hansen, Mohammad Javad Shokri, Kim Hammar, and Tansu Alpcan
 
 [Submitted] *Recovery Control in Replicated Systems through Autonomous Multiagent Rollout*; submitted.
 Kim Hammar and Yuchao Li.
