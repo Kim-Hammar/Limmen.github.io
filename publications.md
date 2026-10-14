@@ -26,7 +26,8 @@ Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
 
 [GameSec] *Multiagent Incident Response Planning with Code Models*; Conference on Game Theory and AI for Security (GameSec), Ann Harbor, Michigan, USA, October 26th-28th 2026.
 Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
-To appear.
+[Springer book](https://link.springer.com/chapter/10.1007/978-3-032-40367-4_21),
+[bibtex](/assets/citations/2026/gamesec.bib).
 
 [CDC] *Optimal Stopping of Self-Refining Foundation Models*; 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, Dec 15th-18th 2026.
 Kim Hammar, Tansu Alpcan, and Emil C. Lupu.
