@@ -5,6 +5,10 @@ title: Talks
 
 ### 2026
 
+[GameSec] Game-theoretic Planning with Foundation Models; 17th Conference on Game Theory and AI for Security (GameSec-26) (GameSec 2026), Ann Arbor, Michigan, USA, October 27, 2026.
+[Slides (PDF)](/assets/slides/2026/gamesec26.pdf),
+[video](https://www.youtube.com/watch?v=o6t8N0NN8Kc).
+
 [MLSys] CSLE: A Reinforcement Learning Platform for Autonomous Security Management; Ninth Annual Conference on Machine Learning and Systems (MLSys 2026), Seattle, WA, USA, May 19, 2026.
 [Slides (online)](https://www.slideshare.net/slideshow/csle-a-reinforcement-learning-platform-for-autonomous-security-management/287610649),
 [slides (PDF)](/assets/slides/2026/mlsys.pdf).
