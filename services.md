@@ -19,6 +19,9 @@ title: Academic services
 [Session chair] GameSec 2026, International Conference on Game Theory and AI for Security.
 [Conference page](https://www.gamesec-conf.org/organization.php).
 
+[Reviewer] Book proposal for CRC Press, Taylor & Francis.
+[Publisher page](https://www.crcpress.com).
+
 [Reviewer] IEEE Transactions on Dependable and Secure Computing (TDSC).
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858).
 
