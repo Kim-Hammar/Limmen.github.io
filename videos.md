@@ -5,6 +5,9 @@ title: Videos
 
 ### 2026
 
+[GameSec] Game-theoretic Planning with Foundation Models; GameSec, Ann Arbor, Michigan, USA.
+[Video](https://www.youtube.com/watch?v=o6t8N0NN8Kc).
+
 [Demo] Multiagent Incident Response Planning with Code Models; demonstration of our multiagent incident response system.
 [Video](https://www.youtube.com/watch?v=YXYk_5GCqUI).
 
