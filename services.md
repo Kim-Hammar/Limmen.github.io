@@ -22,6 +22,9 @@ title: Academic services
 [Reviewer] Book proposal for CRC Press, Taylor & Francis.
 [Publisher page](https://www.crcpress.com).
 
+[Reviewer] IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
+[Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
+
 [Reviewer] IEEE Transactions on Dependable and Secure Computing (TDSC).
 [Journal page](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858).
 
