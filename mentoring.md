@@ -33,18 +33,18 @@ title: Mentoring
 
 [Advisor] Master thesis, Antonio Frederico Nesti Lopes, Spring 2021. [DiVA](https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=antonio+frederico+nesti&language=sv&pid=diva2%3A1631269&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=9136), [PDF](/assets/papers/2021/msc_thesis_nesti_lopes.pdf).
 
-[Co-Advisor] Master thesis, Moritz Meister, Spring 2019. [PDF](https://oa.upm.es/56977/1/TFM_MORITZ_JOHANNES_MEISTER.pdf).
+[Co-Advisor] Master thesis, Moritz Meister (with J. Dowling), Spring 2019. [PDF](https://oa.upm.es/56977/1/TFM_MORITZ_JOHANNES_MEISTER.pdf).
 
 ### Undergraduate student mentoring
 
 [Co-Advisor] Yiran Gao (with T. Li), City University of Hong Kong, 2025-2026.
 
-[Co-Advisor] Summer internship, Lukas Gamard, Summer 2023.
+[Co-Advisor] Summer internship, Lukas Gamard (with G. Karlsson), Summer 2023.
 
-[Co-Advisor] Summer internship, Jose William Esteban Velasquez Cristancho, Summer 2023.
+[Co-Advisor] Summer internship, Jose William Esteban Velasquez Cristancho (with G. Karlsson), Summer 2023.
 
-[Co-Advisor] Summer internship, Thomas Eriksson Mueller, Summer 2023.
+[Co-Advisor] Summer internship, Thomas Eriksson Mueller (with G. Karlsson), Summer 2023.
 
-[Co-Advisor] Summer internship, Mikael Lundqvist, Summer 2023.
+[Co-Advisor] Summer internship, Mikael Lundqvist (with G. Karlsson), Summer 2023.
 
 [Advisor] Summer internship, Nils Forsgren, Summer 2023.
