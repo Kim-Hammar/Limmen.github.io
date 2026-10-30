@@ -23,7 +23,7 @@ The script uses Homebrew's keg-only `ruby@3.4` (`brew install ruby@3.4` if missi
 Standard Jekyll site, configured in `_config.yml` (permalinks `/:title`, kramdown with GFM, Rouge highlighting, MathJax enabled globally, jekyll-sitemap).
 
 - `_posts/` — blog posts, `YYYY-MM-DD-slug.md`, front matter is just `title:` and `updated:` (default layout `post` comes from `_config.yml`).
-- Top-level pages (`layout: page` front matter): `publications.md`, `talks.md`, `news.md`, `services.md`, `teaching.md`, `artifacts.md`, `projects.md`, `about.md`, `photos.md`.
+- Top-level pages (`layout: page` front matter): `publications.md`, `talks.md`, `news.md`, `services.md`, `teaching.md`, `mentoring.md`, `artifacts.md`, `projects.md`, `about.md`, `photos.md`.
 - `index.html` — homepage, loops over `site.posts` grouped by year.
 - `_layouts/` — `compress.html` is a vendored third-party HTML compressor; do not edit it.
 - `_includes/` — `head.html` (MathJax, analytics), `nav.html`, `image2.html` (figure with caption, takes `url` and `description`), inline SVG icons.

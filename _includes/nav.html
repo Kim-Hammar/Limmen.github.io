@@ -1,7 +1,7 @@
 <div class="menu-title"><a href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">K. Hammar</a></div>
 {% assign current = page.url %}
 {% if current == '/index.html' %}{% assign current = '/' %}{% endif %}
-{% assign sections = '|Home~/;Publications~/publications;Talks~/talks;Teaching~/teaching!Activities|Projects~/projects;Artifacts~/artifacts;Services~/services!Media|Blog~/blog;News~/news;Videos~/videos;Photos~/photos!-|About~/about' | split: '!' %}
+{% assign sections = '|Home~/;Publications~/publications;Talks~/talks;Teaching~/teaching;Mentoring~/mentoring!Activities|Projects~/projects;Artifacts~/artifacts;Services~/services!Media|Blog~/blog;News~/news;Videos~/videos;Photos~/photos!-|About~/about' | split: '!' %}
 {% for section in sections %}
 	{% assign parts = section | split: '|' %}
 	{% if parts[0] == '-' %}
