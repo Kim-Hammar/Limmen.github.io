@@ -5,11 +5,11 @@ title: Photos
 
 ### 2026
 
-{% include image2.html url="/assets/photos/2026/imperial.jpg" description="Moving to Imperial College London. May 2026" width="400px" %}
+{% include image2.html url="/assets/photos/2026/imperial.jpg" description="Moving to Imperial College London. May 2026" width="400px" priority=true %}
 
-{% include image2.html url="/assets/photos/2026/sorbonne.jpeg" description="Visit to Paris 1 Panthéon-Sorbonne University. May 2026" width="400px" %}
+{% include image2.html url="/assets/photos/2026/sorbonne.jpeg" description="Visit to Paris 1 Panthéon-Sorbonne University. May 2026" width="400px" priority=true %}
 
-{% include image2.html url="/assets/photos/2026/paris_sorbonne.jpeg" description="Paris 1 Panthéon-Sorbonne University. May 2026" width="400px" %}
+{% include image2.html url="/assets/photos/2026/paris_sorbonne.jpeg" description="Paris 1 Panthéon-Sorbonne University. May 2026" width="400px" priority=true %}
 
 {% include image2.html url="/assets/photos/2026/melbourne.jpg" description="Postdoc at The University of Melbourne. May 2026" width="400px" %}
 
