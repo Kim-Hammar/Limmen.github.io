@@ -19,9 +19,9 @@ title: Mentoring
 
 [Advisor] Amanuens, Yu Hu, May-Dec 2024.
 
-[Co-Advisor] Summer internship, Hjalmar Höglund, Summer 2024.
+[Co-Advisor] Summer internship, Hjalmar Höglund (with G. Karlsson), Summer 2024.
 
-[Co-Advisor] Summer internship, Agnes Ekman, Summer 2024.
+[Co-Advisor] Summer internship, Agnes Ekman (with G. Karlsson), Summer 2024.
 
 [Advisor] Master thesis, Bength Roland Pappila, Spring 2024. [DiVA](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1938354&dswid=2181), [PDF](/assets/papers/2024/msc_thesis_pappila.pdf).
 
