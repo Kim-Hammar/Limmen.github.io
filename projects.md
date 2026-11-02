@@ -5,7 +5,7 @@ title: Research projects
 
 ### Collaborations
 
-- KTH Royal Institute of Technology, Sweden: Prof. [Rolf Stadler](https://www.kth.se/profile/stadler).
+- KTH Royal Institute of Technology, Sweden: Prof. [Rolf Stadler](https://www.kth.se/profile/stadler) and Dr. [Forough Shahab Samani](https://www.kth.se/profile/foro?l=en).
 - Siemens Technology, USA: Dr. [Neil Dhir](https://neildhir.github.io/).
 - New York University, USA: Prof. [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu).
 - Arizona State University, USA: Prof. [Dimitri Bertsekas](https://www.mit.edu/~dimitrib/home.html) and Dr. [Yuchao Li](https://yuchaotaigu.github.io/).
