@@ -15,7 +15,7 @@ title: News
 
 [2 Jul] Our paper "Adaptive Network Security Policies via Belief Aggregation and Rollout" was accepted to [IEEE TIFS](https://ieeexplore.ieee.org/document/11592598).
 
-[27 May] Moved to Imperial College London as a postdoctoral researcher (Dept. of Computing).
+[27 May] Moved to Imperial College London as a postdoctoral researcher (Dept. of Computing, [RISS group](https://rissgroup.org/)).
 
 [15 May] I was recognized as a "rising star" by the IEEE Control Systems Society (CSS) [Technical Committee on Security and Privacy (TCSP)](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
 
