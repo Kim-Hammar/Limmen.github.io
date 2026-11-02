@@ -5,6 +5,8 @@ title: News
 
 ### 2026
 
+[27 Oct] Attending GameSec in Ann Arbor, US, to present [our paper](https://link.springer.com/chapter/10.1007/978-3-032-40367-4_21).
+
 [23 Sep] Our paper "Online Identification of IT Systems through Active Causal Learning" was accepted to [IEEE TNSM](https://ieeexplore.ieee.org/document/11703783).
 
 [20 Aug] Our paper "Causal Online Learning of Safe Regions in Cloud Radio Access Networks" was accepted to [IEEE TMC](https://ieeexplore.ieee.org/document/11659119).
