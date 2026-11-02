@@ -153,6 +153,7 @@ Kim Hammar and Rolf Stadler.
 
 [PhD thesis] *Optimal Security Response to Network Intrusions in IT Systems*; Doctoral thesis in electrical engineering, KTH, School of Electrical Engineering and Computer Science (EECS).
 Kim Hammar.
+The thesis was defended for the Degree of Doctor of Philosophy on Thursday, the 5th December 2024, at 14:00 in F3, Lindstedtsvägen 26, KTH Royal Institute of Technology, Stockholm. Author: Kim Hammar. Supervisor: Professor Rolf Stadler, KTH. Opponent: Professor Tansu Alpcan, The University of Melbourne. Grading committee: Professor Emil Lupu, Imperial College London; Professor Alina Oprea, Northeastern University; and Professor Karl H. Johansson, KTH. Reviewer: Professor Henrik Sandberg, KTH.
 [ArXiv version](https://arxiv.org/abs/2502.02541),
 [publication](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all),
 [PDF](/assets/papers/2024/phd_thesis.pdf),

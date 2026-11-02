@@ -12,6 +12,8 @@ title: Research projects
 - City University of Hong Kong, China: Prof. [Tao Li](https://taoli-nyu.github.io/).
 - University of Melbourne, Australia: Prof. [Tansu Alpcan](https://www.tansu.alpcan.org/).
 - Imperial College London, United Kingdom: Prof. [Emil Lupu](https://profiles.imperial.ac.uk/e.c.lupu).
+- Paris 1 Panthéon-Sorbonne University, France: Prof. [Bénédicte Le Grand](https://cri.pantheonsorbonne.fr/en/about-us).
+- ESIEA, France: Prof. [Jacques Robin](https://www.esiea.fr/esiealab-recherche/ldr/).
 
 ### Proposals
 
