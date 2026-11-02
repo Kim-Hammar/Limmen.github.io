@@ -3,6 +3,16 @@ layout: page
 title: Research projects
 ---
 
+### Collaborations
+
+- KTH Royal Institute of Technology, Sweden: Prof. [Rolf Stadler](https://www.kth.se/profile/stadler).
+- Siemens Technology, USA: Dr. [Neil Dhir](https://neildhir.github.io/).
+- New York University, USA: Prof. [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu).
+- Arizona State University, USA: Prof. [Dimitri Bertsekas](https://www.mit.edu/~dimitrib/home.html) and Dr. [Yuchao Li](https://yuchaotaigu.github.io/).
+- City University of Hong Kong, China: Prof. [Tao Li](https://taoli-nyu.github.io/).
+- University of Melbourne, Australia: Prof. [Tansu Alpcan](https://www.tansu.alpcan.org/).
+- Imperial College London, United Kingdom: Prof. [Emil Lupu](https://profiles.imperial.ac.uk/e.c.lupu).
+
 ### Proposals
 
 2024
